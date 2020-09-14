@@ -1,0 +1,2712 @@
+
+ Historical List of BBSes in the 204 Area Code  
+ --------------------------------------------- 
+ Created by TEXTFILES.COM From Many Sources    
+
+ 204-222-1353 | RoadRunner
+              | Winnipeg, Manitoba      
+--------------+-----------------------------------------------------------
+ 204-222-1769 | Les' Place, Nexus Computer Systems
+              | WINNIPEG, CANADA (1989-1990)
+        SYSOP | Leslie Bester 
+     SOFTWARE | Waffle 
+     COMMENTS | "One of the first hobbyist BBSs to offer Internet e-mail
+              | and some Usenet newsgroups. It got its feed from the
+              | University of Manitoba. A Waffle City Distribution Site."
+              | - Frootloop 
+--------------+-----------------------------------------------------------
+ 204-222-4346 | The Black Box
+              | Winnipeg, Manitoba      
+     SOFTWARE | SPITFIRE 
+--------------+-----------------------------------------------------------
+ 204-222-6902 | Mastermind
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-222-6933 | X-BBS, Digital World BBS
+              | Winnipeg, Mb      (1993-1998)
+        SYSOP | TheWizard, UnKnOWn 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-222-9526 | Rivers End BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-224-0683 | The AppleBox
+              | WINNIPEG, CANADA (1994-1998)
+     SOFTWARE | GBBS Pro (Apple) 
+--------------+-----------------------------------------------------------
+ 204-224-1117 | ISO-8, Scorpion's Lair
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Jack Smook 
+     SOFTWARE | Telegard 
+--------------+-----------------------------------------------------------
+ 204-224-2641 | Lithium BBS
+              | WINNIPEG, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-224-3797 | Never Never Land
+              | Winnipeg, MB      
+        SYSOP | Peter Pan 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-224-8306 | Dark Side of Death
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-224-8777 | Kool BBS
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-231-0143 | Jazzland, Man-Hub-3, Man-Hub-6
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Dave Leather 
+--------------+-----------------------------------------------------------
+ 204-231-0383 | Moria
+              | Winnipeg, Manitoba      
+     SOFTWARE | TAG 
+--------------+-----------------------------------------------------------
+ 204-231-0601 | Midnight Express
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Robert Boudreau 
+--------------+-----------------------------------------------------------
+ 204-231-1919 | Ghost Town Node 2
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Gilles Ouellette 
+--------------+-----------------------------------------------------------
+ 204-231-2122 | Ghost Town
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Gilles Ouellette 
+--------------+-----------------------------------------------------------
+ 204-231-3960 | Gamer's Galaxy
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-231-4504 | ISO-1, Muddy Water CS, MWUG
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Jay Davidow 
+--------------+-----------------------------------------------------------
+ 204-231-4505 | Muddy Water Computer Society
+              | Winnipeg, Manitoba      
+        SYSOP | Jay Davidow 
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-231-4506 | Muddy Water Computer Society
+              | Winnipeg, Manitoba      
+        SYSOP | Jay Davidow 
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-231-4507 | Muddy Water Computer Society
+              | Winnipeg, Manitoba      
+        SYSOP | Jay Davidow 
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-231-4508 | Muddy Water Computer Society
+              | Winnipeg, Manitoba      
+        SYSOP | Jay Davidow 
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-231-4509 | Muddy Water Computer Society
+              | Winnipeg, Manitoba      
+        SYSOP | Jay Davidow 
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-233-0227 | ISO-2, Schizo ][, Schizophrenia ][
+              | WINNIPEG, CANADA (1993-1997)
+        SYSOP | Emily Curry 
+     SOFTWARE | Telegard 
+--------------+-----------------------------------------------------------
+ 204-233-6406 | Dist 10 Coord, Dist 20 Coord, Dozy's Den, Man-Net SDN,
+              | Manitoba Net, MFNA
+              | WINNIPEG, CANADA (1989-1992)
+        SYSOP | Chris Davis, Susie Davis 
+--------------+-----------------------------------------------------------
+ 204-235-1884 | Service Station
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-237-9523 | New Order ][
+              | WINNIPEG, CANADA 
+     SOFTWARE | TAG 
+--------------+-----------------------------------------------------------
+ 204-239-5227 | Distillery
+              | Portage La Prairie, MB       (1980-1998)
+        SYSOP | Kelvin Krastel 
+     SOFTWARE | Maximus 
+     COMMENTS | "I started on the Commodore 64 with a 300 baud modem
+              | running 64Exchange (I think). Then upgraded to a 1200
+              | Baud modem when they were bleeding edge! Cost me a ton o
+              | money back then. Then into an IBM XT (4.77Mhz - Rocking!)
+              | and I can't remember the software package I used on the
+              | XT but I do remember getting my first 386 and the first
+              | thing to go on it was RBBS. A bitch to configure but it
+              | was very nice and stable (A MUST back then). Then on to
+              | GENESIS as a beta tester, then GENESIS Deluxe. Finally
+              | finding the most flexible package I'd ever seen in a BBS
+              | package called Maximus. I recall it had it's own
+              | programming language inside it based on C and Pascal and
+              | some other languages. MEX I believe it was. Anyway I ran
+              | that for the final years until the Internet came along.
+              | Thank God for that!  Kelvin Krastel.  Kelvin at Krastel
+              | dot com." - Kevin Krastel 
+--------------+-----------------------------------------------------------
+ 204-253-0482 | Digital Underground
+              | Winnipeg, Manitoba      (1989-1995)
+        SYSOP | Craig Bonnett, Denny Bonnett & Craig Bonnett 
+--------------+-----------------------------------------------------------
+ 204-253-1342 | Dist 50 Coord, Man-Hub-5, Man-Net-SC, Pokey's Place HST,
+              | Porky's Place
+              | Winnipeg, Manitoba      (1986-1992)
+        SYSOP | Wilson Anderson 
+     SOFTWARE | PCBoard, Wildcat, GBBS Pro 
+--------------+-----------------------------------------------------------
+ 204-253-1517 | The Death Row BBS
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Gordon Kocian 
+     SOFTWARE | Telegard 
+--------------+-----------------------------------------------------------
+ 204-253-2018 | The Weyr, Futures Imperfect
+              | Winnipeg, MB      (1994-1997)
+        SYSOP | Shawn Bremaud (Ashrael / Draven) 
+     SOFTWARE | Renegade, iNiQUiTY 
+     COMMENTS | "Got my first computer in 93, 486 SX33 IBM clone with a
+              | 14.4k modem. Once I started figuring things out, found
+              | the BBS scene and immediately wanted to be a part of it.
+              | Launched "The Weyr" in 94 using Renegade. A year or two
+              | later i found iNiQUiTY BBS software (by Mike Fricker) and
+              | after much tinkering relaunched my BBS as "Futures
+              | Imperfect". At some point in there, also created the
+              | HiPNet messaging network. Made some great friends in
+              | those days and I still miss the feeling of community that
+              | was part and parcel of the BBS experience." - Shawn
+              | Bremaud 
+--------------+-----------------------------------------------------------
+ 204-253-3466 | Manual Dial BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-253-3488 | Blue Unicorn
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-253-6351 | Storm F/X
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-253-6628 | YCN
+              | WINNIPEG, CANADA (1987)
+        SYSOP | Dan Edwards 
+--------------+-----------------------------------------------------------
+ 204-253-6711 | Eco Communications, Econet World H.Q., The Firin' Squad,
+              | The Modem Zone BBS
+              | WINNIPEG, CANADA (1992-1995)
+        SYSOP | Jordan Firth 
+     SOFTWARE | Renegade 
+     COMMENTS | "One of the Central Distribution Hubs for Renegade." -
+              | Jordan Firth 
+--------------+-----------------------------------------------------------
+ 204-253-7928 | Picayune 2
+              | Winnipeg, Manitoba      
+        SYSOP | Curtis Coleman 
+--------------+-----------------------------------------------------------
+ 204-253-8312 | The Security Center
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Ken Biggs 
+--------------+-----------------------------------------------------------
+ 204-253-9399 | Essential Service System
+              | Winnipeg, Manitoba      (1994)
+     SOFTWARE | Major 
+--------------+-----------------------------------------------------------
+ 204-253-9898 | Roach Motel
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-254-1332 | FCBBS, FlexyBBS
+              | Winnipeg, MB      (1983-1987)
+        SYSOP | Sean Sibbet 
+     SOFTWARE | Homegrown C64 
+--------------+-----------------------------------------------------------
+ 204-254-1750 | A-F-C BBS, Amiga File Connection, Data Exchange Net
+              | Winnipeg, MB      (1991-1995)
+        SYSOP | Mel Strocen 
+     SOFTWARE | XenoLink, Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-254-2487 | Limbo's Land
+              | WINNIPEG, CANADA 
+     SOFTWARE | TAG 
+--------------+-----------------------------------------------------------
+ 204-254-2513 | Picayune
+              | Winnipeg, MB      (1991-1992)
+        SYSOP | Curtis Coleman 
+--------------+-----------------------------------------------------------
+ 204-254-2794 | City of Angles
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-254-4236 | Dozy's Den, Manitoba Net
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Chris Davis 
+--------------+-----------------------------------------------------------
+ 204-254-4750 | Boarding House
+              | Winnipeg, Manitoba      
+        SYSOP | Oliver Wendell Jones 
+     SOFTWARE | WWIV 
+--------------+-----------------------------------------------------------
+ 204-254-5178 | Complete Opus
+              | WINNIPEG, CANADA (1989-1990)
+        SYSOP | Michael Choi 
+--------------+-----------------------------------------------------------
+ 204-254-5239 | The Shack BBS
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-255-0707 | Harmonious Melody
+              | WINNIPEG, CANADA (1992)
+        SYSOP | Jo-Anne Williams 
+--------------+-----------------------------------------------------------
+ 204-255-1991 | The Exchange
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-255-4085 | Rebel Alliance BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-255-4588 | Flaming Telepaths BBS
+              | Winnipeg, MB      (2000-2003)
+        SYSOP | Ben Strewons, Bungo Pony (Ben Strewons) 
+     SOFTWARE | Mystic 
+     COMMENTS | "Nice to see my board mentioned here! I was definately
+              | the late comer in the BBS scene. I still have the whole
+              | board archived onto CD-Roms, and have been threatening to
+              | go Telnet for years. My board originally went up on Aug.
+              | 20, 2000 and was taken down on July 30, 2001 when I was
+              | financially strapped and forced to move. The board was
+              | running Infusion BBS software for the first two weeks it
+              | was up. As I recall, there was a problem with the
+              | software's memory swapping and it wouldn't let me run
+              | games like LORD. I lost a few users because of that, and
+              | I quickly switched over to Mystic which I was very happy
+              | with. Before I took the board down, I was working on
+              | setting up internet access for those who wanted it,
+              | mainly the users with 2400 baud modems (there were quite
+              | a few). I got my feeds from Echo Beach BBS, and I
+              | arranged what was probably the last BBS Bash at The Forks
+              | in Winnipeg on Aug. 18, 2001 (five people attended
+              | including me). For the year that my board was up, it did
+              | quite well. I got some new people into BBSing and
+              | accumulated a total of 75 users. When Robin's Universe
+              | announced that it was going down, I spammed every one of
+              | his users, telling them to come over to my board. Many of
+              | them did. Thanks for putting up this page and bringing
+              | back some very fond memories!" - Bungo Pony (Ben
+              | Strewons) 
+--------------+-----------------------------------------------------------
+ 204-255-5993 | Futura, ISO-4, ISO-Hub-16, Man-Hub-8, Man-Net-Tres, The
+              | Ovni Project BBS
+              | WINNIPEG, CANADA (1991-1997)
+        SYSOP | Chris Plaza 
+--------------+-----------------------------------------------------------
+ 204-255-7179 | StarGate BBS
+              | WINNIPEG, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-255-8602 | The Digital Underground
+              | WINNIPEG, CANADA (1996)
+        SYSOP | John Chabot 
+--------------+-----------------------------------------------------------
+ 204-255-8824 | Fire & Brimstone, Fire & Brimstone BBS
+              | Winnipeg, MB      (1991-1992)
+        SYSOP | Chris Stone, Truckman, The Phantom, The Phantom Truckman,
+              | Chris Stone 
+     SOFTWARE | eBBS (C64) 
+     COMMENTS | "One of the longer running Winnipeg BBSs. It ran on a C64
+              | for a long time then switched to Amiga." - Frootloop <p>
+              | "Hi there. I'm the original SysOp of the BBS. How fondly
+              | I remember those days back in the early 90's. I started
+              | my bbs using a C64c computer and a 1541-2 disk drive. I
+              | had a crappy 1200 baud modem (Volksmodem) and sold it for
+              | a 1200 baud Commodore one. I upgraded to an Amiga 1 year
+              | later and had 3 floppy drives and a single 45 Megabyte
+              | hard drive. I ran the system from my my folks place. In
+              | 1993 I moved out and decided to stop the BBS. A few
+              | months later I sold my Amiga system for cheap, and didn't
+              | own a computer for 10 years. (Although I work in
+              | computers, I never owned one until 2003). I currently own
+              | and operate my own blog, www.stonemanautoreview.com. I
+              | love cars - and it shows. I invite you to visit my site
+              | and say hello. Thank you for mentioning my humble web
+              | site in your list. How I loved to hear people dial up and
+              | spend their time writing messages on my old system; I
+              | really appreciated their time.  Sadly, with all things,
+              | they must end. But thanks again for mentioning my site."
+              | - Stoneman / The Phantom / Truckman / Chris Stone 
+--------------+-----------------------------------------------------------
+ 204-255-8938 | Atomic Cabaret
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-255-9045 | Scanners I
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-256-0049 | Abacus BBS
+              | WINNIPEG, CANADA (1996-1997)
+        SYSOP | Drew Rondeau 
+--------------+-----------------------------------------------------------
+ 204-256-1343 | Data Exchange Net
+              | Winnipeg, Manitoba      (1991-1995)
+        SYSOP | Mel Strocen 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-256-1655 | Ghost Town, ISO-8
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Gilles Ouellette, Gilles Oullette 
+--------------+-----------------------------------------------------------
+ 204-256-6255 | Tomcat Alley BBS
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Steven Schneider 
+--------------+-----------------------------------------------------------
+ 204-256-6975 | Compu Tech, Draco
+              | WINNIPEG, CANADA (1989-1991)
+        SYSOP | Dave Rose 
+     SOFTWARE | Waffle 
+     COMMENTS | "One of the first hobbyist BBSs to offer Internet e-mail
+              | and some Usenet newsgroups." - Frootloop 
+--------------+-----------------------------------------------------------
+ 204-256-9914 | The Horsemen's Place
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Robert Urbonas 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-257-0967 | Glen's Lair
+              | WINNIPEG, CANADA (1992-1993)
+        SYSOP | Glen Janisse 
+--------------+-----------------------------------------------------------
+ 204-257-1378 | Worthington's Wonder
+              | WINNIPEG, CANADA (1992-1993)
+        SYSOP | Myrna Dueck 
+--------------+-----------------------------------------------------------
+ 204-257-2811 | Praxis Zone
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-257-3751 | Man-Hub-5, Man-Hub-7a, NLA-5, NLA-Hub-5, Stalker's Guild
+              | Winnipeg, MB      (1991-1998)
+        SYSOP | David Radke 
+     SOFTWARE | MEBBS (Amiga) 
+--------------+-----------------------------------------------------------
+ 204-257-5286 | Gig in Space
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-257-6021 | WoLVeS DeN
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-257-6215 | Bounty Hunter's Pal., Bounty Hunter's Palace
+              | WINNIPEG, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-257-6485 | 9th Config, Man-Hub-3
+              | WINNIPEG, CANADA (1990)
+        SYSOP | Dana Neal 
+--------------+-----------------------------------------------------------
+ 204-257-6557 | Gig in Space
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-257-7217 | Cerebral Afflatus, Itsy Bitsy
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Jason Goga 
+--------------+-----------------------------------------------------------
+ 204-257-7238 | Crazy Island BBS
+              | WINNIPEG, CANADA (1997-1999)
+        SYSOP | Jack Chen 
+--------------+-----------------------------------------------------------
+ 204-257-8888 | Curt the Node
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Curtis Coleman 
+--------------+-----------------------------------------------------------
+ 204-257-9550 | Info Wpg, Man-Hub-3, Man-Net-SC
+              | WINNIPEG, CANADA (1990)
+        SYSOP | Dave Leather 
+--------------+-----------------------------------------------------------
+ 204-257-9787 | Mine's Bigger & Better BBS, Mine's Bigger And Better
+              | WINNIPEG, CANADA (1992-1993)
+        SYSOP | Sachit Mehra 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-261-1122 | Third Stone From The Sun
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Todd Richard Lyons 
+--------------+-----------------------------------------------------------
+ 204-261-1899 | Greatwall
+              | WINNIPEG, CANADA (1995-2000)
+        SYSOP | Wen Yang 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-261-3614 | Outhouse BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | Color 64 
+--------------+-----------------------------------------------------------
+ 204-261-5966 | Accelerated Data
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-261-6672 | Outback
+              | WINNIPEG, CANADA (1990)
+        SYSOP | Gene Hayes 
+--------------+-----------------------------------------------------------
+ 204-261-7454 | Starfleet HQ
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-261-7512 | Ursa Minor BBS
+              | Winnipeg, Manitoba      
+        SYSOP | Jim & Mike Charlton 
+     SOFTWARE | STadel (Atari ST) 
+--------------+-----------------------------------------------------------
+ 204-261-7820 | House of Tai
+              | WINNIPEG, CANADA (1994-1996)
+        SYSOP | Tahir Khawaja, Tahir Zia Khawaja 
+     SOFTWARE | DLG Pro (Amiga) 
+--------------+-----------------------------------------------------------
+ 204-261-9037 | Tanelorn
+              | WINNIPEG, CANADA (1989)
+        SYSOP | Rob Janzen 
+--------------+-----------------------------------------------------------
+ 204-261-9353 | Cannibal Cafe
+              | Winnipeg, Manitoba      (1993)
+--------------+-----------------------------------------------------------
+ 204-269-0084 | System 6626
+              | WINNIPEG, CANADA (1990-1992)
+        SYSOP | Victor Spicer 
+     SOFTWARE | Waffle 
+     COMMENTS | "One of the first hobbyist BBSs to offer Internet e-mail
+              | and some Usenet groups. It got its feed from the
+              | University of Manitoba." - Frootloop 
+--------------+-----------------------------------------------------------
+ 204-269-0253 | Bio Hazard
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Scott Brooker 
+--------------+-----------------------------------------------------------
+ 204-269-1916 | Man-Hub-1, Tech Talk Toll
+              | WINNIPEG, CANADA (1992-1995)
+        SYSOP | Dave Sloan 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-269-2164 | The Dragon's Lair BBS
+              | WINNIPEG, CANADA (1995-1999)
+        SYSOP | John Spence 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-269-2210 | Dragon's Lair
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-269-2253 | Wildcard
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-269-2755 | Galaxy BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | PowerBBS 
+--------------+-----------------------------------------------------------
+ 204-269-3305 | CyberSpace
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Colin Stobbe 
+--------------+-----------------------------------------------------------
+ 204-269-4343 | Headboard, Headboard International, Man-Hub-6, Man-Net-
+              | Tres
+              | WINNIPEG, CANADA (1990-1992)
+        SYSOP | George Boudreau 
+--------------+-----------------------------------------------------------
+ 204-269-4732 | ISO-11, Weekender BBS
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Darrell Tanner 
+--------------+-----------------------------------------------------------
+ 204-269-5571 | Man-Hub-3, Man-Net-Secr, Mything Link
+              | WINNIPEG, CANADA (1989-1992)
+        SYSOP | James Kebernik, David Badilotti 
+--------------+-----------------------------------------------------------
+ 204-269-6112 | Network 23
+              | Winnipeg, Manitoba      
+--------------+-----------------------------------------------------------
+ 204-269-6166 | Land of Logic
+              | WINNIPEG, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-269-6728 | Rhema Systems
+              | WINNIPEG, CANADA 
+     SOFTWARE | Waffle 
+--------------+-----------------------------------------------------------
+ 204-269-7373 | Dist 40 Coord, Man-Hub-1, Man-Hub-6, Man-Net-EC, Man-Net-
+              | Sec, NLA Internet Gate, NLA-6, NLA-Hub-6,
+              | Tech Talk Toll
+              | WINNIPEG, CANADA (1989-1996)
+        SYSOP | Dave Sloan 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-275-0142 | Vertex Info Systems, Virtual Game Conn., Virtual Game
+              | Connection
+              | WINNIPEG, CANADA (1994-1997)
+        SYSOP | Ron Bernard 
+     SOFTWARE | Major 
+--------------+-----------------------------------------------------------
+ 204-275-0609 | Hawklord Software Technologies, Man-Net-NVC, Man-Net-Omb,
+              | The Underground
+              | WINNIPEG, CANADA (1993-1996)
+        SYSOP | Rob McGeachy, Keith Suderman, Robert McGeachy 
+     SOFTWARE | TransAmiga 
+--------------+-----------------------------------------------------------
+ 204-275-0637 | Info-Motion Board
+              | WINNIPEG, CANADA (1989)
+     SOFTWARE | Wildcat 
+--------------+-----------------------------------------------------------
+ 204-275-0687 | Man-Hub-3, Man-Net-Tres, Vagabond
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Dave Mackey 
+--------------+-----------------------------------------------------------
+ 204-275-0943 | Atari ST User's Group
+              | WINNIPEG, CANADA 
+     SOFTWARE | RATSoft ST 
+--------------+-----------------------------------------------------------
+ 204-275-1532 | Adam's Place, Man Remote, Man-Hub-13, Man-Hub-4, Man-Net-
+              | EC, Man-Net-NEC, Man-Net-PC, Manitoba
+              | Remote, Network 23, Network 23 BBS, NLA-
+              | 11, NLA-Hub-13, Sanctuary HST
+              | Winnipeg, Manitoba      (1989-1994)
+        SYSOP | Scott Brooker, Adam Thompson 
+--------------+-----------------------------------------------------------
+ 204-275-1533 | Man Rem2, Man Remote2, Man-Net-EC, Manitoba Remote HST
+              | WINNIPEG, CANADA (1989-1990)
+        SYSOP | Dave Sloan, Scott Brooker 
+--------------+-----------------------------------------------------------
+ 204-275-1534 | Man Remote3, Man-Hub-4, Manitoba Remote
+              | WINNIPEG, CANADA (1990)
+        SYSOP | Scott Brooker 
+--------------+-----------------------------------------------------------
+ 204-275-1656 | Spanish Connection
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Ivan Salazar 
+--------------+-----------------------------------------------------------
+ 204-275-2030 | Land of Software
+              | WINNIPEG, CANADA (1989)
+        SYSOP | Scott Brooker 
+--------------+-----------------------------------------------------------
+ 204-275-3082 | The Pit BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Todd Koop 
+--------------+-----------------------------------------------------------
+ 204-275-5109 | Man-Net-Tres, Ultimate Fantasy
+              | WINNIPEG, CANADA (1992)
+        SYSOP | Charlene Rollins 
+--------------+-----------------------------------------------------------
+ 204-275-5645 | The Prime Directive
+              | Winnipeg, MB      (1995-1997)
+        SYSOP | Jason Smith 
+     SOFTWARE | Synchronet OS/2 
+     COMMENTS | "Well, this was unexpected to run across. Brings back a
+              | lot of memories. Many late nights tweaking and expanding
+              | upon the BBS. Programming new scripts and error trapping
+              | them. Those were the good ole days... I think I have a
+              | backup copy of the full system on zip disk somewhere
+              | around here. Well thank you for reminding me of some fun
+              | times..." - Jason Smith 
+--------------+-----------------------------------------------------------
+ 204-275-6320 | The Steam Trap BBS
+              | WINNIPEG, CANADA (1994-1996)
+        SYSOP | George Boudreau 
+     SOFTWARE | Remote 
+--------------+-----------------------------------------------------------
+ 204-275-6748 | Hayloft BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Rick Mogk 
+--------------+-----------------------------------------------------------
+ 204-275-7012 | Tanelorn
+              | WINNIPEG, CANADA (1990-1991)
+        SYSOP | Rob Janzen 
+--------------+-----------------------------------------------------------
+ 204-275-7416 | Man-Hub-2, Parrot
+              | WINNIPEG, CANADA (1990-1993)
+        SYSOP | David Liu 
+--------------+-----------------------------------------------------------
+ 204-275-7581 | Mac In Time
+              | WINNIPEG, CANADA (1994)
+     SOFTWARE | FirstClass (Mac) 
+--------------+-----------------------------------------------------------
+ 204-275-8131 | Software Secrecy
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-275-8597 | City Morgue, Man-Net-Omb
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Jayson Davis 
+--------------+-----------------------------------------------------------
+ 204-284-0676 | DarkZone
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-284-1196 | Tech-Talk-Toll3
+              | WINNIPEG, CANADA (1992)
+        SYSOP | Dave Sloan 
+--------------+-----------------------------------------------------------
+ 204-284-3243 | Jerry's Place
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Jerry Tretiak 
+--------------+-----------------------------------------------------------
+ 204-284-8343 | Siamese Dream ][
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-284-8576 | Vultrek OS/2 BBS
+              | WINNIPEG, CANADA (1995-1996)
+        SYSOP | Andrew Hodges 
+--------------+-----------------------------------------------------------
+ 204-284-8839 | NLA Internet Gateway, NLA Mail Distribution, NLA-2, NLA-4,
+              | Robin's Universe Node 1, The Centre of
+              | Robin's Universe
+              | WINNIPEG, CANADA (1997-2000)
+        SYSOP | Robin Iwamoto 
+--------------+-----------------------------------------------------------
+ 204-284-8953 | Robin's Universe Node 2, The Centre of Robin's Universe
+              | Node 2
+              | WINNIPEG, CANADA (1997-2000)
+        SYSOP | Robin Iwamoto 
+--------------+-----------------------------------------------------------
+ 204-284-9508 | Robin's Universe Node 3, The Centre of Robin's Universe
+              | Node 3
+              | WINNIPEG, CANADA (1997-2000)
+        SYSOP | Robin Iwamoto 
+--------------+-----------------------------------------------------------
+ 204-284-9538 | Robin's Universe Node 4, The Centre of Robin's Universe
+              | Node 4
+              | WINNIPEG, CANADA (1997-2000)
+        SYSOP | Robin Iwamoto 
+--------------+-----------------------------------------------------------
+ 204-328-7405 | Leisureland
+              | , Manitoba      
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-329-5506 | Something bbs
+              | EASTERVILLE, CANADA (1987)
+     SOFTWARE | Forum 
+--------------+-----------------------------------------------------------
+ 204-334-0217 | The Outworld BBS
+              | Winnipeg, MB      (1993-2000)
+        SYSOP | Lloyd Hannesson, Dasme 
+     SOFTWARE | Renegade 
+     COMMENTS | "I ran this BBS up until I had to move. Back up and
+              | running as a telnet only system now.
+              | http://outworldbbs.com/" - Dasme 
+--------------+-----------------------------------------------------------
+ 204-334-0763 | Harmonious Melody
+              | WINNIPEG, CANADA (1992-1993)
+        SYSOP | Jo-Anne Williams 
+--------------+-----------------------------------------------------------
+ 204-334-2358 | Swap N Shop
+              | WINNIPEG, CANADA 
+     SOFTWARE | TBBS 
+--------------+-----------------------------------------------------------
+ 204-334-6854 | Test Pattern
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Kevin Lambert 
+--------------+-----------------------------------------------------------
+ 204-334-8800 | Man-Hub-5, Manitoba Software, Wpg PC User Grp, Wpg PC
+              | Users Group, Wpg PC Users Grp
+              | WINNIPEG, CANADA (1991-1994)
+        SYSOP | Robert Snyder 
+--------------+-----------------------------------------------------------
+ 204-338-0272 | Winnipeg PCUG
+              | WINNIPEG, CANADA (1990-1996)
+        SYSOP | Hartley Macklin 
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-338-0719 | Outland, Pyroto Mountain
+              | WINNIPEG, CANADA (1989-1991)
+        SYSOP | Gene Horodecki 
+--------------+-----------------------------------------------------------
+ 204-338-0962 | 9th Configuration, Dist 30 Coord
+              | WINNIPEG, CANADA (1989-1990)
+        SYSOP | Dana Neal 
+--------------+-----------------------------------------------------------
+ 204-338-3423 | Man-Hub-7, Man-Net-NC, Manitoba Net, NLA-3, NLA-7, NLA-
+              | Hub-7, The Land BBS
+              | Winnipeg, MB      (1991-1999)
+        SYSOP | Chuck Collins 
+     SOFTWARE | EBBS (C64), Maximus, EBBS 64, Dark BBS 
+     COMMENTS | "This was a long running system in Winnipeg. It was
+              | originally a very popular C64 BBS in the 1980s, featuring
+              | lots of lively chat on the message boards (in 40 columns
+              | of glory), and fun software to download (especially from
+              | Europe). It later switched to the Amiga. A Usenet message
+              | circa 1989 mentions it running a "tweaked" version of
+              | Dark BBS (C64) with a 2400bps modem, and 1541 and 1571
+              | Commodore drives for storage." - Frootloop <p> "This was
+              | considered the premier Commodore BBS in Winnipeg in the
+              | late 80's and beyond.  The line was almost always busy.
+              | Its name, The Land, was inspired by the "Thomas Covenant"
+              | science fiction series by Stephen R. Donaldson.  The
+              | Sysop went by the handle "Lord Foul," based on a
+              | character from the books." - Brendan 
+--------------+-----------------------------------------------------------
+ 204-338-4862 | Crime Wave, Nuke, Yeah Whatever
+              | Winnipeg, MB      (1990-1996)
+        SYSOP | Jamie Ginter(Tchaikovsky) 
+     SOFTWARE | Renegade 
+     COMMENTS | "Was the WHQ For splash which was an ascii art group but
+              | it died shortly after the Board closed down." - Nat Price 
+--------------+-----------------------------------------------------------
+ 204-338-5482 | Test Pattern
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Kevin Lambert 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-338-5964 | Cyber-Cev, Final Refuge, Unglued
+              | WINNIPEG, CANADA 
+     SOFTWARE | Virtual 
+--------------+-----------------------------------------------------------
+ 204-338-6035 | Garden of Eden, ISO-9
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | George Major 
+     SOFTWARE | Telegard 
+--------------+-----------------------------------------------------------
+ 204-338-7237 | da Dark Domain
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-338-9559 | Black Market BBS
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-339-1515 | KrankenHaus
+              | Winnipeg, Mannitoba      
+     SOFTWARE | Trinity 
+--------------+-----------------------------------------------------------
+ 204-339-2172 | Midnight Caller
+              | WINNIPEG, CANADA (1990)
+        SYSOP | George Silar 
+--------------+-----------------------------------------------------------
+ 204-339-2680 | Goldstone
+              | WINNIPEG, CANADA (1990)
+        SYSOP | Ernest Enns 
+--------------+-----------------------------------------------------------
+ 204-339-6166 | Egg Farts
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-339-6474 | Swap N Shop
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-339-6605 | Amber, Man-Hub-6
+              | WINNIPEG, CANADA (1990)
+        SYSOP | David Kolter 
+--------------+-----------------------------------------------------------
+ 204-339-6988 | Black Hole
+              | WINNIPEG, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-339-8085 | Alcatraz
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-355-4013 | StonyBrook BBS
+              | LANDMARK, CANADA 
+     SOFTWARE | TriBBS 
+--------------+-----------------------------------------------------------
+ 204-428-3116 | The Glidepath
+              | SOUTHPORT, CANADA (1996)
+        SYSOP | Bruce Feaver 
+--------------+-----------------------------------------------------------
+ 204-428-3179 | Microcosm
+              | SOUTHPORT, CANADA (1988)
+--------------+-----------------------------------------------------------
+ 204-452-0668 | KHS: Tech Exchange
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-452-3004 | Boomer's BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Gary Davis 
+--------------+-----------------------------------------------------------
+ 204-452-3074 | Roach Motel II
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-452-3715 | Spirit's World
+              | Winnipeg, Manitoba      (1993)
+--------------+-----------------------------------------------------------
+ 204-452-4739 | Vultrek
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Andrew Hodges 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-452-6047 | The Hutch
+              | WINNIPEG, CANADA (1990)
+        SYSOP | Dennis Muldrew 
+--------------+-----------------------------------------------------------
+ 204-452-6717 | Parrot BBS
+              | WINNIPEG, CANADA (1989-1990)
+        SYSOP | David Liu 
+--------------+-----------------------------------------------------------
+ 204-453-4318 | Toad Hall
+              | Winnipeg, Manitoba      (1993)
+--------------+-----------------------------------------------------------
+ 204-453-4814 | Caustic Grip
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-453-5797 | Alfalfa Byproducts, Eradication
+              | WINNIPEG, CANADA 
+        SYSOP | PhatCap, Phaze-1 
+     SOFTWARE | Impulse 
+--------------+-----------------------------------------------------------
+ 204-474-1279 | Info XChange
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Conrad Hoy 
+--------------+-----------------------------------------------------------
+ 204-474-2038 | Five
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Ric Miller 
+--------------+-----------------------------------------------------------
+ 204-474-2139 | The Special Camp
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Eric Hansen 
+--------------+-----------------------------------------------------------
+ 204-474-2759 | Altered States BBS, Dozy's Den
+              | WINNIPEG, CANADA (1988-1996)
+        SYSOP | Chris Davis, Mark Dykstra 
+--------------+-----------------------------------------------------------
+ 204-475-0147 | Grooves, Grooves!
+              | WINNIPEG, CANADA (1995-1996)
+     SOFTWARE | WWIV 
+--------------+-----------------------------------------------------------
+ 204-475-0866 | Dark Half ][
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-475-0927 | ISO-1, Muddy Water CS
+              | WINNIPEG, CANADA (1996-2000)
+        SYSOP | Jay Davidow 
+--------------+-----------------------------------------------------------
+ 204-475-1490 | Datapac
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-475-2278 | Cafe De La Regence, Commodore, IND-1, ISO-2, ISO-Hub-3,
+              | Man-Hub-3, Man-Hub-8, Man-Net-Omb, MB Net
+              | WINNIPEG, CANADA (1991-1998)
+        SYSOP | George Frizzell, Gary Russell 
+--------------+-----------------------------------------------------------
+ 204-475-2740 | Datapac
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-475-3712 | Downward Spiral
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-475-5199 | Generic BBS
+              | Winnipeg, MB      (1981-1999)
+        SYSOP | Victor Laking 
+     SOFTWARE | Magpie, TriBBS, Homemade 
+     COMMENTS | "Generic BBS first ran on a C=64 with a homemade program
+              | that was adapted from a Coco BBS that was running at the
+              | time.  300 BAUD modem ($800+ for 1200 BAUD at the
+              | time...)  Later it switched to an IBM using TriBBS and a
+              | 2400 BAUD modem.  One of the main goals for the system
+              | was to be as simple to use and friendly conversations.
+              | Generic BBS was also home to the most comprehensive and
+              | accurate BBS list available at the time." - Victor Laking 
+--------------+-----------------------------------------------------------
+ 204-475-5495 | House of Darkness II
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-475-7329 | Bloom County BBS
+              | WINNIPEG, CANADA 
+        SYSOP | Opus 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-475-7802 | KHS Tech Exchange
+              | WINNIPEG, CANADA (1995-1996)
+        SYSOP | Billy Riske 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-475-9696 | Stadnyk Enterprizes
+              | WINNIPEG, CANADA (1992)
+        SYSOP | Ted Stadnyk 
+--------------+-----------------------------------------------------------
+ 204-477-0010 | Northern Lights
+              | Winnipeg, Manitoba      
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-477-3528 | Dozy's Den
+              | WINNIPEG, CANADA (1992-1993)
+        SYSOP | Chris Davis 
+--------------+-----------------------------------------------------------
+ 204-477-4932 | The Programmer's Dimension BBS
+              | WINNIPEG, CANADA (1996)
+        SYSOP | James Holmes 
+--------------+-----------------------------------------------------------
+ 204-477-5748 | Dog Pound
+              | WINNIPEG, CANADA (1990-1991)
+        SYSOP | Ryan Evans 
+--------------+-----------------------------------------------------------
+ 204-477-8543 | Garden of Eden
+              | WINNIPEG, CANADA (1993-1994)
+        SYSOP | George Major 
+--------------+-----------------------------------------------------------
+ 204-478-1448 | Beebo The Mutant Sloth BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Robbin Ambrose 
+--------------+-----------------------------------------------------------
+ 204-478-3562 | Man-Net-Sec-Tres, Programmer's Oasis
+              | WINNIPEG, CANADA (1992-1999)
+        SYSOP | Brian Lowe 
+     SOFTWARE | Remote 
+--------------+-----------------------------------------------------------
+ 204-478-9902 | The Almighty BBS
+              | WINNIPEG, CANADA (1992-1993)
+        SYSOP | Patrick Bernardin 
+--------------+-----------------------------------------------------------
+ 204-483-2552 | Just Another BBS, Man-Hub-10, Man-Hub-3, NLA-2, NLA-5,
+              | NLA-9, NLA-Hub-10
+              | Souris, MB      (1991-2003)
+        SYSOP | Ed Bailey 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-483-3175 | Mac Info Xchange
+              | Winnipeg, Manitoba      (1993)
+--------------+-----------------------------------------------------------
+ 204-487-1429 | The Clubhouse Node 2
+              | WINNIPEG, CANADA (1995-1996)
+        SYSOP | David Storey 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-487-1459 | The Celtic Raider Node 3
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Dirk Manuel 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-487-1505 | Refuge
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-487-2073 | Digital Demensions
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-487-2295 | Smuggler's Alliance
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-487-2471 | Realms of Darkness
+              | Winnipeg, MB      
+        SYSOP | Sith 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-487-7484 | The Virtual Eclipse
+              | WINNIPEG, CANADA (1997)
+        SYSOP | Mark Gomulinski 
+--------------+-----------------------------------------------------------
+ 204-488-1211 | In Stereo, In Stereo!
+              | WINNIPEG, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-488-1560 | Culloden, Culloden BBS, Wild-1
+              | Winnipeg, CANADA      (1989-1998)
+        SYSOP | Marc St-Laurent 
+     SOFTWARE | Wildcat 
+--------------+-----------------------------------------------------------
+ 204-488-1607 | The Inquiring Mind
+              | Winnipeg, Manitoba      (1991)
+     SOFTWARE | Waffle, Tod Christien 
+     COMMENTS |  "One of the first hobbyist BBSs to offer Internet e-mail
+              | and some Usenet groups. It got its feed from the
+              | University of Manitoba." - Frootloop 
+--------------+-----------------------------------------------------------
+ 204-488-2384 | Culloden
+              | Winnipeg, Manitoba      (1993-1994)
+        SYSOP | Marc St-Laurent 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-488-2650 | Refuge
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-488-2861 | Nuclear
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Weldon Penner 
+--------------+-----------------------------------------------------------
+ 204-488-3299 | IMP-1, ISO-10, ISO-3, The Celtic Raider
+              | WINNIPEG, CANADA (1995-1996)
+        SYSOP | Dirk Manuel 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-488-3532 | Commander Savik's 5th Column
+              | Winnipeg, Manitoba      
+     SOFTWARE | WWIV 
+--------------+-----------------------------------------------------------
+ 204-488-3866 | Hyman Industries BBS
+              | WINNIPEG, CANADA (1990-1991)
+        SYSOP | Hartley Hyman, Stanley Hyman 
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-488-4109 | ISO-7, Mini-Tower BBS
+              | WINNIPEG, CANADA (1995-1996)
+        SYSOP | Steve Matheson 
+--------------+-----------------------------------------------------------
+ 204-488-4821 | The Celtic Raider Node 2
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Dirk Manuel 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-488-6289 | Culloden BBS
+              | Winnipeg, CANADA      (1989-1996)
+        SYSOP | Marc St-Laurent 
+     SOFTWARE | Wildcat 
+--------------+-----------------------------------------------------------
+ 204-488-6637 | Night Hawk BBS
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Robert Connelly 
+--------------+-----------------------------------------------------------
+ 204-488-6661 | Adam's Place, Pointing the Way
+              | WINNIPEG, CANADA (1990-1991)
+        SYSOP | Adam Thompson 
+--------------+-----------------------------------------------------------
+ 204-488-7046 | SBC Broadcasting BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-488-9379 | Nerd's Land Line
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Bruce Boucher 
+--------------+-----------------------------------------------------------
+ 204-489-0006 | The Graveyard Shift BBS
+              | Winnipeg, Manitoba      (1993-1998)
+        SYSOP | Bob Phangureh 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-489-0969 | Culloden BBS
+              | Winnipeg, CANADA      (1989-1996)
+        SYSOP | Marc StLaurent, Marc St-Laurent 
+     SOFTWARE | Wildcat 
+--------------+-----------------------------------------------------------
+ 204-489-1836 | Acme BBS
+              | WINNIPEG, CANADA (1993)
+--------------+-----------------------------------------------------------
+ 204-489-1952 | ISO-6, Partyin' Hard, Partyin' Hard ][
+              | WINNIPEG, CANADA (1992-1995)
+        SYSOP | Alvin Lee 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-489-2002 | COMAD Marketing, ISO-4
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Ari Novikoff 
+--------------+-----------------------------------------------------------
+ 204-489-2384 | Culloden BBS
+              | Winnipeg, CANADA      (1989-1996)
+        SYSOP | Marc St-Laurent 
+     SOFTWARE | Wildcat 
+--------------+-----------------------------------------------------------
+ 204-489-3132 | InGen Communications
+              | Winnipeg, Manitoba      
+     SOFTWARE | TAG, Waffle 
+--------------+-----------------------------------------------------------
+ 204-489-3888 | Hades
+              | WINNIPEG, CANADA (1992)
+        SYSOP | Raj Phangureh 
+--------------+-----------------------------------------------------------
+ 204-489-4748 | Nightly Provisions BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Andrew Carr 
+--------------+-----------------------------------------------------------
+ 204-489-7098 | Divine Intervention, The Divine Intervention
+              | Winnipeg, MB      (1990-1992)
+        SYSOP | Andie Chan 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-489-8714 | Troubled Thoughts message systems
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Chris Deacon 
+     SOFTWARE | TAG 
+--------------+-----------------------------------------------------------
+ 204-489-9041 | Hyman Industry
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Hartley Hyman 
+--------------+-----------------------------------------------------------
+ 204-489-9081 | ISO-1, ISO-Hub-9, Man-Hub-9, Man-Net-NVC, The Clubhouse
+              | Usenet Gateway
+              | WINNIPEG, CANADA (1993-1996)
+        SYSOP | David Storey 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-555-5555 | Egg BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | EBBS 64 
+--------------+-----------------------------------------------------------
+ 204-571-6886 | Alpha Quadrant, Project Genesis
+              | BRANDON, CANADA (1996-1997)
+        SYSOP | Daniel Ward 
+--------------+-----------------------------------------------------------
+ 204-582-3593 | Back Door
+              | WINNIPEG, CANADA (1990-1992)
+        SYSOP | Brian McCuskee 
+     SOFTWARE | Virtual 
+--------------+-----------------------------------------------------------
+ 204-582-4988 | Electronic Mailbox, Man-Net-UUCP
+              | Winnipeg, MB      (1991-1992)
+        SYSOP | Gary Russell 
+--------------+-----------------------------------------------------------
+ 204-582-5606 | Blaster's BBS
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Russell Van Wyk 
+--------------+-----------------------------------------------------------
+ 204-582-6883 | Web
+              | WINNIPEG, CANADA (1994)
+--------------+-----------------------------------------------------------
+ 204-582-8796 | Blaster's BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Russell Van Wyk 
+--------------+-----------------------------------------------------------
+ 204-586-1328 | Echo Beach BBS, Manitoba Net, NLA-1
+              | WINNIPEG, CANADA (1998-2001)
+        SYSOP | James A Hall 
+--------------+-----------------------------------------------------------
+ 204-586-1716 | Dog House BBS
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Tim Langevin 
+--------------+-----------------------------------------------------------
+ 204-586-1973 | Backwoods
+              | WINNIPEG, CANADA (1992)
+        SYSOP | Rick Wagner 
+--------------+-----------------------------------------------------------
+ 204-586-4993 | Pleasure Palace
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Paul Banner 
+--------------+-----------------------------------------------------------
+ 204-586-6311 | Steintech BBS
+              | WINNIPEG, CANADA (1994-1998)
+        SYSOP | Brad Stein 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-586-7601 | Dog House
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Tim Langevin 
+--------------+-----------------------------------------------------------
+ 204-589-1078 | Silicon Synapse Electronics
+              | Winnipeg, Manitoba      
+        SYSOP | John Kamchen 
+     COMMENTS | "A support BBS for the Sysop's Amiga hardware projects."
+              | - Frootloop 
+--------------+-----------------------------------------------------------
+ 204-589-1130 | Melnibone
+              | WINNIPEG, CANADA (1990-1991)
+        SYSOP | Jeff Bell 
+--------------+-----------------------------------------------------------
+ 204-589-1655 | Red King's Tower BBS
+              | WINNIPEG, CANADA (1995-1996)
+        SYSOP | Bill Avery, Red King 
+--------------+-----------------------------------------------------------
+ 204-589-2239 | Titans
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-589-4742 | Micro-Mart
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-589-6044 | Gamers Universe
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-624-5737 | Electric Pages
+              | CLEARWTRLK, CANADA (1994)
+        SYSOP | Ken McCarthur 
+--------------+-----------------------------------------------------------
+ 204-632-0451 | Manila Connections BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Edwin de Leon 
+--------------+-----------------------------------------------------------
+ 204-632-0596 | Five Starr BBS
+              | WINNIPEG, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-632-4696 | Five Starr BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-632-4749 | Hyper Speed
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Guy Farquharson 
+--------------+-----------------------------------------------------------
+ 204-632-5038 | Maniac Mansion
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-632-5344 | Funky Emanuel's BBS, ISO-10, Lazerxt/3-8086
+              | WINNIPEG, CANADA (1995-2000)
+        SYSOP | Emanuel Edwards 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-632-6414 | Skid Row
+              | WINNIPEG, CANADA (1990-1991)
+        SYSOP | Ryan Zaharia 
+--------------+-----------------------------------------------------------
+ 204-632-6702 | The Primal Rage
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Jeff Appler 
+--------------+-----------------------------------------------------------
+ 204-632-6743 | Insomnia BBS
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-632-8455 | Cool World
+              | WINNIPEG, CANADA (1996-1998)
+        SYSOP | Joey Funari 
+--------------+-----------------------------------------------------------
+ 204-633-0393 | Sound and Sight
+              | Winnipeg, Manitoba      
+        SYSOP | Sheldon Itscovich 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-633-1011 | Sound and Sight
+              | Winnipeg, Manitoba      
+        SYSOP | Sheldon Itscovich 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-633-1273 | Inferno's Rage
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-633-1634 | Deep Space 8
+              | WINNIPEG, CANADA 
+     SOFTWARE | Excalibur 
+--------------+-----------------------------------------------------------
+ 204-633-1985 | Night Hawk
+              | WINNIPEG, CANADA (1992)
+        SYSOP | Robert Connelly 
+--------------+-----------------------------------------------------------
+ 204-633-2364 | Sound and Sight
+              | WINNIPEG, CANADA (1994-1996)
+        SYSOP | Sheldon Itscovich 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-633-3845 | T.P.I. Canada
+              | Winnipeg, Manitoba      
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-633-4154 | Blaster's BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Russell Van Wyk 
+     SOFTWARE | Remote 
+--------------+-----------------------------------------------------------
+ 204-633-5218 | Sound and Sight
+              | Winnipeg, Manitoba      
+        SYSOP | Sheldon Itscovich 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-633-5219 | Sound and Sight
+              | Winnipeg, Manitoba      
+        SYSOP | Sheldon Itscovich 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-633-6952 | CELLAR DWELLER
+              | WINNIPEG, CANADA (1987-1991)
+        SYSOP | Don Mikita, James Kleiner 
+--------------+-----------------------------------------------------------
+ 204-638-8140 | A Higher Power
+              | Dauphin, MANITOBA      (1989-1991)
+        SYSOP | Leif Bloomquist, Jason Fleming 
+--------------+-----------------------------------------------------------
+ 204-639-2570 | The Watchman's BBS
+              | GRAND RAPIDS, CANADA 
+     SOFTWARE | Major 
+--------------+-----------------------------------------------------------
+ 204-646-2854 | Seattle Recovery
+              | ST LAURENT, CANADA (1992)
+--------------+-----------------------------------------------------------
+ 204-654-0238 | Digital Illusions
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-654-1066 | Jerry's Place
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Jerry Tretiak 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-654-4768 | Hermes, MacTropolis, QuadraNet
+              | Winnipeg, Manitoba      (1994)
+        SYSOP | Tyler Gunn 
+--------------+-----------------------------------------------------------
+ 204-654-9424 | Clawbone
+              | WINNIPEG, CANADA (1996-2000)
+        SYSOP | Wolfgang Ernicke 
+     SOFTWARE | TransAmiga 
+     COMMENTS | Amiga Only BBS 
+--------------+-----------------------------------------------------------
+ 204-661-1174 | Wired
+              | Winnipeg, Manitoba      
+     SOFTWARE | TransAmiga 
+--------------+-----------------------------------------------------------
+ 204-661-1888 | Tackle Box
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-661-2004 | Anarchist's Underground
+              | Winnipeg, Manitoba      
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-661-2138 | Infonet II
+              | WINNIPEG, CANADA (1986-1987)
+     SOFTWARE | GBBS Pro 
+--------------+-----------------------------------------------------------
+ 204-661-3044 | Indigo Rose Corporation
+              | Winnipeg, Manitoba      
+--------------+-----------------------------------------------------------
+ 204-661-3908 | Star Base, StarBase One
+              | WINNIPEG, CANADA (1989)
+        SYSOP | Jack Chester 
+--------------+-----------------------------------------------------------
+ 204-661-4994 | Alpha Quadrant
+              | Winnipeg, Manitoba      
+     SOFTWARE | TAG 
+--------------+-----------------------------------------------------------
+ 204-661-5107 | Above the Rim
+              | WINNIPEG, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-661-6500 | Barony of Castle Rouge
+              | Winnipeg, Manitoba      
+     SOFTWARE | SecondSight (Mac) 
+--------------+-----------------------------------------------------------
+ 204-661-6510 | Outer Space
+              | Winnipeg, MB      (1991-1994)
+        SYSOP | Chris Wachal 
+     SOFTWARE | Renegade 
+     COMMENTS | "This BBS started running Hermes on a Mac Plus before I
+              | bought a PC and switched to Renegade.  I ran a wide
+              | variety of BBS games and tried to encourage people to run
+              | RPGs in my message boards.  I met some of my best friends
+              | while running this board." - Chris Wachal 
+--------------+-----------------------------------------------------------
+ 204-661-8337 | NorthStar, North Star
+              | WINNIPEG, CANADA (1986-1987)
+     SOFTWARE | GBBS Pro 
+--------------+-----------------------------------------------------------
+ 204-661-9162 | Digital Mosque
+              | WINNIPEG, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-663-1156 | Mad House BBS
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-663-6285 | The Electronic Pages
+              | WINNIPEG, CANADA (1988-1989)
+        SYSOP | Ken McArthur 
+--------------+-----------------------------------------------------------
+ 204-663-8490 | Man-Hub-5, Manitoba Software, MSW BBS
+              | Winnipeg, Manitoba      (1989-1992)
+        SYSOP | Robert Snyder 
+--------------+-----------------------------------------------------------
+ 204-663-9078 | 10 Forward, Crystal Palace
+              | WINNIPEG, CANADA (1989-1990)
+        SYSOP | Warren Zinger 
+--------------+-----------------------------------------------------------
+ 204-663-9473 | 1 More
+              | WINNIPEG, CANADA (1990)
+        SYSOP | Ken Oberlin 
+--------------+-----------------------------------------------------------
+ 204-663-9479 | The Security Center
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Ken Biggs 
+--------------+-----------------------------------------------------------
+ 204-663-9484 | Back Room, Crosstime Saloon, Man-Hub-4, Man-Net-EC, Man-
+              | Net-Treas, Man-Net-Tres, Manitoba Net,
+              | NLA-4, NLA-Hub-4
+              | WINNIPEG, CANADA (1991-2000)
+        SYSOP | Ron Bigalke, Ronald Bigalke, Chris Davis 
+--------------+-----------------------------------------------------------
+ 204-664-5831 | Pnline
+              | POPLARFLD, CANADA (1993)
+--------------+-----------------------------------------------------------
+ 204-667-0163 | Dominion of the Dark, Dungeon Master BBS, Winnipeg RPG
+              | User Group
+              | Winnipeg, Manitoba      
+     SOFTWARE | TAG 
+--------------+-----------------------------------------------------------
+ 204-667-0899 | Info Source Canada, Info-Source Ca.
+              | Winnipeg, MB      (1991-1994)
+        SYSOP | Terry Jonasson 
+--------------+-----------------------------------------------------------
+ 204-667-0940 | CyberNation BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | Worldgroup 
+--------------+-----------------------------------------------------------
+ 204-667-1449 | Microgem Incorporated
+              | WINNIPEG, CANADA 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-667-2132 | Info Source Canada
+              | Winnipeg, Manitoba      
+        SYSOP | Terry Jonasson 
+--------------+-----------------------------------------------------------
+ 204-667-2316 | Info Source Canada
+              | Winnipeg, Manitoba      
+        SYSOP | Terry Jonasson 
+--------------+-----------------------------------------------------------
+ 204-667-2387 | Sylence
+              | Winnipeg, Manitoba      
+     SOFTWARE | CNet (Amiga) 
+--------------+-----------------------------------------------------------
+ 204-667-3218 | Money Matters BBS
+              | WINNIPEG, CANADA (1995-1997)
+        SYSOP | Bill Sibbald 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-667-3521 | Chip Thrills
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-667-4409 | ISO-8, The Security Center
+              | WINNIPEG, CANADA (1995-1996)
+        SYSOP | Ken Biggs 
+--------------+-----------------------------------------------------------
+ 204-667-5572 | Starbase Thompson
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-667-5806 | Back Room
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Ronald Bigalke 
+--------------+-----------------------------------------------------------
+ 204-667-5919 | Alphanet, Cybercom, Cybernetic Communications Network,
+              | Cyberspace, Muddy Water Computer Society
+              | BBS, Muddy Waters UG, MWCS Admin, MWUG,
+              | Software Etc
+              | WINNIPEG, CANADA (1986-1993)
+        SYSOP | Gord Tulloch (-=Overlord=-), Terry Smythe 
+     COMMENTS | "Wow, what a blast from the past - I ran a google on my
+              | own name when they bragged they had doubled their index
+              | size and noticed your listing for my BBSes, thanks for
+              | listing me.  Just to amplify comments on the local BBS
+              | scene, the Sysops for most of the boards used to get
+              | together at Garbonzo's Pizza at 12AM on Sunday morning to
+              | shoot the sh** and talk about the scene, until they
+              | kicked us out at 3 or so, then to the local pool hall til
+              | 6AM or so. The group called itself the Looney Club. A
+              | core of members that did house parties and other early
+              | morning bashes were the Hardcore Looney Club. Some of
+              | those guys I still see on occasion and are still friends
+              | for life.  Here's some additional info on various
+              | incarnations of my own BBS: 1986-1988 "AlphaNet"
+              | Software: AppleNet. Ran on an Apple //e under DOS3.3 with
+              | two disk drives (total of 252K of disk!) and a 300bps
+              | modem 1988-1990 "Cybernetic Communications Network"
+              | Hardware: IBM PC XT with 10mb hard disk (later expanded
+              | to a 30mb) running RBBS and later Wildcat One of the
+              | first FIDONET nodes in Manitoba off YCN.  1990-1993
+              | "Muddy Water Computer Society BBS" Hardware: Clone XT,
+              | 240mb disk, running RBBS (?) Online BBS for the Muddy
+              | Water Computer Society, which was originally the Muddy
+              | Water Osborne Group which ran an RCP/M at 204-832-4593
+              | from about 1985 til it moved to MSDOS and my basement.
+              | The hard drives were pulls from the Burroughs mainframe
+              | as I recall and generated so much heat I didn't need
+              | baseboard heat in my office all winter. My parents
+              | probably wondered why their Hydro bill was so high!
+              | Eventually the BBS was moved to a commercial office owned
+              | by one of the members and grew into a 6 (?) line system
+              | with many hundreds of megs of software before the
+              | Internet made it irrelevant in about 1997." - Gord
+              | Tulloch 
+--------------+-----------------------------------------------------------
+ 204-667-7916 | CETEC Online Systems
+              | WINNIPEG, CANADA 
+     SOFTWARE | Major 
+--------------+-----------------------------------------------------------
+ 204-667-7917 | CTECK Online Systems
+              | Winnipeg, Manitoba      
+     SOFTWARE | Major 
+--------------+-----------------------------------------------------------
+ 204-667-8185 | Information Sidewalk
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Darren Schindel 
+--------------+-----------------------------------------------------------
+ 204-667-8784 | Get-A-Way BBS
+              | WINNIPEG, CANADA (1995-1997)
+        SYSOP | Mike Newbound 
+     SOFTWARE | TAG 
+--------------+-----------------------------------------------------------
+ 204-667-9782 | Fish Bowl
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-668-0857 | Multimedia FX
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Ken MacLeod 
+--------------+-----------------------------------------------------------
+ 204-668-1130 | Grim Reaper, Red Rock
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Kurt Walker 
+--------------+-----------------------------------------------------------
+ 204-668-1901 | Rocky Horror Picture Show
+              | WINNIPEG, CANADA 
+     SOFTWARE | DMBBS (C64) 
+--------------+-----------------------------------------------------------
+ 204-668-2635 | The Security Center
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Ken Biggs 
+--------------+-----------------------------------------------------------
+ 204-668-3958 | Hayloft BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Rick Mogk 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-668-4816 | Info Source
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Terry Jonasson 
+--------------+-----------------------------------------------------------
+ 204-668-8845 | CTECK Online Systems
+              | Winnipeg, Manitoba      
+     SOFTWARE | Major 
+--------------+-----------------------------------------------------------
+ 204-668-9742 | Neo-Tokyo
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-669-0884 | Jerry's Place
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Jerry Tretiak 
+--------------+-----------------------------------------------------------
+ 204-669-1666 | Amiga Manitoba Users Group BBS (AMUG BBS)
+              | WINNIPEG, CANADA (1991-1996)
+        SYSOP | Gerald Brandt 
+     SOFTWARE | Rubicon BBS 
+--------------+-----------------------------------------------------------
+ 204-669-1774 | ISO Internet Gate, ISO-5, ISO-Hub-17, ManiScouBbs, The
+              | Outdoor Store
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Lionel Fowler 
+--------------+-----------------------------------------------------------
+ 204-669-4257 | Microgem Incorporated
+              | Winnipeg, Manitoba      
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-669-5091 | Darkest Hour BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Stephen Charaton 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-669-5227 | ISO-11, Weekender BBS
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Darrell Tanner 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-669-5440 | Phoenix
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Lionel Fowler 
+--------------+-----------------------------------------------------------
+ 204-669-5835 | HyPNoSiS BbS
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Gary Kuch 
+--------------+-----------------------------------------------------------
+ 204-669-5840 | Bandit's Lair, CTECK Online Systems, Raven's Loft
+              | Winnipeg, Manitoba      (1993)
+     SOFTWARE | Major 
+--------------+-----------------------------------------------------------
+ 204-675-2895 | Man-Net SDN, Man-Net SDNet/WORKS!, Polar Bear Heaven
+              | CHURCHILL, CANADA (1989-1990)
+        SYSOP | Chris ONeill, Chris O'Neill 
+--------------+-----------------------------------------------------------
+ 204-677-3396 | Northstar BBS
+              | Thompson, Manitoba      
+     SOFTWARE | Major 
+--------------+-----------------------------------------------------------
+ 204-677-5937 | Northstar BBS
+              | Thompson, Manitoba      
+     SOFTWARE | Major 
+--------------+-----------------------------------------------------------
+ 204-677-7373 | Northstar BBS
+              | THOMPSON, CANADA 
+--------------+-----------------------------------------------------------
+ 204-677-9005 | Northstar BBS
+              | Thompson, Manitoba      
+     SOFTWARE | Major 
+--------------+-----------------------------------------------------------
+ 204-677-9711 | Northstar BBS
+              | THOMPSON, CANADA 
+--------------+-----------------------------------------------------------
+ 204-694-1869 | Man-Net-Tres, Manitoba Online
+              | WINNIPEG, CANADA (1989-1990)
+        SYSOP | Ken McArthur 
+--------------+-----------------------------------------------------------
+ 204-694-2304 | The Dragon's Lair BBS
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | John Spence 
+--------------+-----------------------------------------------------------
+ 204-694-9140 | Man-On-Poll, Manitoba Online
+              | WINNIPEG, CANADA (1989-1991)
+        SYSOP | Ken McArthur 
+--------------+-----------------------------------------------------------
+ 204-694-9220 | C-Com BBS
+              | Winnipeg, Manitoba      
+        SYSOP | Leonard Coffyn 
+--------------+-----------------------------------------------------------
+ 204-694-9324 | The Primal Rage
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Jeff Appler 
+--------------+-----------------------------------------------------------
+ 204-694-9344 | Planet Rock
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-697-0145 | Soul Asylum
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Chris Lagiewka 
+--------------+-----------------------------------------------------------
+ 204-697-0224 | C-Com BBS
+              | WINNIPEG, CANADA (1992-1994)
+        SYSOP | Leonard Coffyn 
+--------------+-----------------------------------------------------------
+ 204-697-1607 | Nicks Place
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Nick Blazanovic 
+--------------+-----------------------------------------------------------
+ 204-697-1901 | The Black Unicorn
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Joe Vendra 
+--------------+-----------------------------------------------------------
+ 204-697-3001 | Amber
+              | WINNIPEG, CANADA (1992)
+        SYSOP | David Kolter 
+--------------+-----------------------------------------------------------
+ 204-697-4573 | The Black Unicorn
+              | WINNIPEG, CANADA (1992)
+        SYSOP | Joe Vendra 
+--------------+-----------------------------------------------------------
+ 204-725-4425 | Cop Shop
+              | BRANDON, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-726-1885 | Leisureland BBS
+              | BRANDON, CANADA (1996)
+        SYSOP | David Wasilka 
+--------------+-----------------------------------------------------------
+ 204-726-9485 | Talisman BBS
+              | Brandon, Manitoba      
+--------------+-----------------------------------------------------------
+ 204-727-3758 | Birdman BBS
+              | BRANDON, CANADA (1996)
+        SYSOP | Larry Williams 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-728-0462 | Birdman BBS
+              | BRANDON, CANADA (1996)
+        SYSOP | Larry Williams 
+--------------+-----------------------------------------------------------
+ 204-728-6615 | Brandon Univ. Cont. Educ., Brandon University Continuing
+              | Education
+              | BRANDON, CANADA (1988)
+     SOFTWARE | Wildcat 
+--------------+-----------------------------------------------------------
+ 204-729-9249 | Radical Rick's
+              | Brandon, Manitoba      
+--------------+-----------------------------------------------------------
+ 204-735-2328 | The MailRoom
+              | STARBUCK, CANADA (1994)
+        SYSOP | James Holmes 
+--------------+-----------------------------------------------------------
+ 204-736-4364 | Sanford
+              | Winnipeg, Manitoba      
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-736-4858 | Leprechaun BBS
+              | SANFORD, CANADA (1995)
+        SYSOP | Chris Hazlitt 
+--------------+-----------------------------------------------------------
+ 204-748-6360 | Thortech BBS
+              | VIRDEN, CANADA (1994)
+        SYSOP | Brad White 
+--------------+-----------------------------------------------------------
+ 204-748-6460 | Thortech BBS
+              | VIRDEN, CANADA (1994)
+        SYSOP | Brad White 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-757-2728 | Goldstone, Man-Hub-5, Man-Sub21, Prairie Storm Intl
+              | LOCKPORT, CANADA (1990-1999)
+        SYSOP | Ernest Enns 
+     SOFTWARE | Remote 
+--------------+-----------------------------------------------------------
+ 204-757-9338 | The Midnight Society
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-763-4684 | Bert's Bulletin Board
+              | Brandon, Manitoba      
+--------------+-----------------------------------------------------------
+ 204-765-2135 | Falcon BBS
+              | SHILO, CANADA 
+     SOFTWARE | Excalibur 
+--------------+-----------------------------------------------------------
+ 204-765-2378 | Late Nite
+              | Winnipeg, MB      (1995)
+        SYSOP |  
+     SOFTWARE | TriBBS 
+--------------+-----------------------------------------------------------
+ 204-765-2770 | #9 Baud Street
+              | SHILO, CANADA 
+     SOFTWARE | Excalibur 
+--------------+-----------------------------------------------------------
+ 204-772-0101 | Conviron
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Brian McCuskee 
+--------------+-----------------------------------------------------------
+ 204-772-0299 | Cdn Univ Press
+              | WINNIPEG, CANADA (1990-1991)
+        SYSOP | Andy Riga 
+--------------+-----------------------------------------------------------
+ 204-772-1366 | Sanction
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Frank Ham, Frank Hamm 
+--------------+-----------------------------------------------------------
+ 204-772-1954 | Coast to Coast
+              | WINNIPEG, CANADA (1990)
+        SYSOP | Gerry Sommise 
+--------------+-----------------------------------------------------------
+ 204-772-2710 | Esoteric
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Shawn Pringle 
+--------------+-----------------------------------------------------------
+ 204-772-3725 | Realms of Sosaria
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Jason Miller 
+--------------+-----------------------------------------------------------
+ 204-772-6487 | Electronic Mailbox, Man-Hub-1, Man-Hub-8, Man-Net-Audt,
+              | Man-Net-SDM, Man-Net-UUCP
+              | WINNIPEG, CANADA (1992-1995)
+        SYSOP | Gary Russell 
+--------------+-----------------------------------------------------------
+ 204-774-0247 | Man-Hub-1, NLA-1, NLA-Hub-1, Rick's Roadhouse, RoadHouse
+              | Winnipeg, Manitoba      (1991-1997)
+        SYSOP | Rick Miscavish 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-774-0349 | Earth BBS, New World BBS
+              | WINNIPEG, CANADA (1995-1996)
+        SYSOP | Karlos Thiessen, Peter Karlos 
+     SOFTWARE | TransAmiga 
+--------------+-----------------------------------------------------------
+ 204-774-1118 | Three's a Crowd
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-774-1663 | Mike's Place
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Mike Nichols 
+--------------+-----------------------------------------------------------
+ 204-774-2053 | Acme
+              | WINNIPEG, CANADA (1996-1998)
+--------------+-----------------------------------------------------------
+ 204-774-3166 | The 50 Foot BBS
+              | WINNIPEG, CANADA (1998)
+        SYSOP | Steve George 
+--------------+-----------------------------------------------------------
+ 204-774-3348 | Virtual Mortality
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-774-4245 | The Thieve's Guild
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Carl Enns 
+--------------+-----------------------------------------------------------
+ 204-774-5360 | 50 Foot BBS
+              | WINNIPEG, CANADA (1999-2000)
+        SYSOP | Steve George 
+--------------+-----------------------------------------------------------
+ 204-774-7100 | COMAD Marketing
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Ari Novikoff 
+--------------+-----------------------------------------------------------
+ 204-774-7276 | Last Resort BBS
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Steve George 
+--------------+-----------------------------------------------------------
+ 204-774-8961 | Last Resort BBS, SNAFU
+              | WINNIPEG, CANADA (1995-1996)
+        SYSOP | Steve George 
+--------------+-----------------------------------------------------------
+ 204-774-9113 | Aurora Searchlight, Dist 30 Coord
+              | WINNIPEG, CANADA (1989-1990)
+        SYSOP | Glen McIntosh 
+--------------+-----------------------------------------------------------
+ 204-775-1547 | Middle Earth
+              | Winnipeg, Manitoba      
+     SOFTWARE | Max's BBS 
+--------------+-----------------------------------------------------------
+ 204-775-1605 | The Dark BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | WWIV 
+--------------+-----------------------------------------------------------
+ 204-775-1669 | Philosphers Phunhouse
+              | Winnipeg, MB      (1994-1996)
+        SYSOP | Socrates, Archimedes, Jim Morrison 
+     SOFTWARE | renegade 
+--------------+-----------------------------------------------------------
+ 204-775-3038 | Manitoba Telecom
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Larry Bangloy 
+--------------+-----------------------------------------------------------
+ 204-775-3497 | Alternatives
+              | WINNIPEG, CANADA (1987-1989)
+        SYSOP | Gary Russell 
+--------------+-----------------------------------------------------------
+ 204-775-4033 | Champs d'Alicorne
+              | WINNIPEG, CANADA (1991-1996)
+        SYSOP | Keith LaRue 
+--------------+-----------------------------------------------------------
+ 204-775-4097 | Russian Embassy
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-775-4560 | Earth BBS
+              | WINNIPEG, CANADA (1996-1997)
+        SYSOP | Peter Karlos 
+--------------+-----------------------------------------------------------
+ 204-775-4915 | Paterson Aerospace
+              | WINNIPEG, CANADA (1994)
+--------------+-----------------------------------------------------------
+ 204-775-7079 | Info XChange
+              | WINNIPEG, CANADA (1990-1992)
+        SYSOP | Conrad Hoy 
+--------------+-----------------------------------------------------------
+ 204-775-7295 | Alternatives, DataFax Network
+              | WINNIPEG, CANADA (1990-1991)
+        SYSOP | Gary Russell 
+--------------+-----------------------------------------------------------
+ 204-775-8411 | Info XChange
+              | WINNIPEG, CANADA (1990)
+        SYSOP | Conrad Hoy 
+--------------+-----------------------------------------------------------
+ 204-775-8551 | SNAFU
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Steve George 
+--------------+-----------------------------------------------------------
+ 204-778-6302 | Starbase Thompson
+              | THOMPSON, CANADA 
+--------------+-----------------------------------------------------------
+ 204-778-7396 | Northstar BBS
+              | Thompson, Manitoba      
+     SOFTWARE | Major 
+--------------+-----------------------------------------------------------
+ 204-779-3912 | Ferengal Trader
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-783-0614 | The 50 Foot BBS
+              | WINNIPEG, CANADA (1999)
+        SYSOP | Steve George 
+--------------+-----------------------------------------------------------
+ 204-783-1372 | Geriatric Ward, Umbilicus Mundi BBS
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Tim Weakley 
+--------------+-----------------------------------------------------------
+ 204-783-1677 | Embassy Graphics
+              | WINNIPEG, CANADA (1994)
+--------------+-----------------------------------------------------------
+ 204-783-2260 | Umbilicus Mundi BBS
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Tim Weakley 
+--------------+-----------------------------------------------------------
+ 204-783-2693 | The Underground
+              | Winnipeg, MB      (1991-1993)
+        SYSOP | Keith Suderman 
+--------------+-----------------------------------------------------------
+ 204-783-2713 | Portal BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-783-3034 | Ariel III, Eric the BBS
+              | WINNIPEG, CANADA 
+        SYSOP | Greg Moeller 
+     SOFTWARE | HOBBS 
+--------------+-----------------------------------------------------------
+ 204-783-3048 | Ariel III, Eric the BBS
+              | WINNIPEG, CANADA 
+        SYSOP | Greg Moeller 
+     SOFTWARE | HOBBS 
+--------------+-----------------------------------------------------------
+ 204-783-3060 | Ariel III, Eric the BBS
+              | Winnipeg, Manitoba      
+        SYSOP | Greg Moeller 
+     SOFTWARE | HOBBS 
+--------------+-----------------------------------------------------------
+ 204-783-3617 | Ariel II
+              | Winnipeg, Manitoba      
+        SYSOP | Bruce Walzer 
+     SOFTWARE | Ariel (Forth Language) 
+     COMMENTS |  "A classic Winnipeg BBS which was unabashadly dedicated
+              | to the highly technical computer, electronics and radio
+              | (HAM, etc.) enthusaist. The unique multi-user BBS with
+              | its simple to use command line interface was created from
+              | scratch by the Sysop, Bruce Walzer, in the Forth
+              | programming language on a stand alone 4 MHz Z-80 Forth
+              | system. By 1992 it was running on an 8 MHz 80186 - still
+              | perfectly adequate for the focus of the BBS. Bruce's
+              | friend, Greg Moeller, wrote his own BBS in C and copied
+              | the popular Ariel interface, launching the venerable 5-
+              | user multi-line Ariel III BBS, which later became known
+              | as Eric the BBS. (Some people didn't like the name
+              | change.)" - Frootloop 
+--------------+-----------------------------------------------------------
+ 204-783-3744 | Leather and Lace
+              | Winnipeg, Manitoba      (1993)
+        SYSOP | Chris Bourgeois 
+     COMMENTS | "An X-rated adult BBS which was one of eight BBSs busted
+              | in coordinated raids by the Winnipeg Police in 1993, for
+              | hosting hardcore images and videos in violation of a
+              | recent Supreme Court ruling on obscenity. Those systems
+              | were the first to be investigated due to the new ^Ö some
+              | say, obscure ^Ö laws, and similar raids would soon take
+              | place in Toronto. In a May 21, 1993, Winnipeg Free Press
+              | story, the Sysop of Leather and Lace said he wasn't
+              | breaking the law and vowed to re-open the BBS within
+              | days. Wired Magazine reported that most of the cases were
+              | settled by the operators receiving small fines or
+              | suspended sentences." - Frootloop 
+--------------+-----------------------------------------------------------
+ 204-783-5013 | Ariel III, Eric the BBS
+              | Winnipeg, Manitoba      
+        SYSOP | Greg Moeller 
+     SOFTWARE | HOBBS 
+--------------+-----------------------------------------------------------
+ 204-783-5302 | ISO-7, Polar Bears Cave
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Colin Marsh 
+--------------+-----------------------------------------------------------
+ 204-783-6585 | Ghost in the Machine
+              | Winnipeg, Manitoba      (1996-1999)
+        SYSOP | Slawek Borkowski 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-783-6907 | Ghost in the Machine
+              | Winnipeg, Manitoba      (1996-1999)
+        SYSOP | Slawek Borkowski 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-783-6924 | Ghost in the Machine BBS
+              | WINNIPEG, CANADA (1996-1999)
+        SYSOP | Slawek Borkowski 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-783-7948 | Ariel III, Eric the BBS
+              | Winnipeg, Manitoba      
+        SYSOP | Greg Moeller 
+     SOFTWARE | HOBBS 
+--------------+-----------------------------------------------------------
+ 204-783-9177 | SNAFU
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Steve George 
+--------------+-----------------------------------------------------------
+ 204-783-9441 | Manitoba User Group (MUG)
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-784-9245 | SNAFU
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Steve George 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-785-8518 | Bowman's BBS
+              | Selkirk, Manitoba      
+        SYSOP | William Barrie Bowman (VE4UB) 
+     SOFTWARE | PCBoard 
+     COMMENTS | "Run by amateur radio operator VE4UB. The Bowman Micro-
+              | Software Ltd. web site declares, "... proud to have
+              | provided the longest surviving privately owned bulletin
+              | board service in Canada!"" - Frootloop 
+--------------+-----------------------------------------------------------
+ 204-786-1593 | Hammer's BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Glenn Hampton 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-786-2695 | Dark Myst
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-786-3005 | Helter Skelter
+              | Winnipeg, Manitoba      (1995)
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-786-4065 | Oavatos
+              | WINNIPEG, CANADA (1995)
+        SYSOP | William Moore 
+--------------+-----------------------------------------------------------
+ 204-786-4685 | NLA-1
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Rick Miscavish 
+--------------+-----------------------------------------------------------
+ 204-786-4720 | Wpg PCUG
+              | WINNIPEG, CANADA (1990-1991)
+        SYSOP | Robin Guenther 
+--------------+-----------------------------------------------------------
+ 204-786-7850 | Amiga Manitoba Users Group, AMUG
+              | Winnipeg, Manitoba      (1988)
+     SOFTWARE | Rubicon 
+--------------+-----------------------------------------------------------
+ 204-831-5028 | Mansel's BBS
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Mansel Ozanalp 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-831-5375 | Winnipeg Health (348/604), Winnipeg Health Care
+              | WINNIPEG, CANADA (1993-1994)
+        SYSOP | Mark Gaschermann 
+     SOFTWARE | QUICK 
+--------------+-----------------------------------------------------------
+ 204-831-5459 | Wholesale Exchange
+              | , Manitoba      
+     SOFTWARE | Falcon 
+--------------+-----------------------------------------------------------
+ 204-831-8088 | Davy's Booty
+              | Winnipeg, MAN      (1986-1991)
+        SYSOP | Mony Dave, Dungeon Lord, Tiger 
+     SOFTWARE | Silicon Calley 
+     COMMENTS | "Tis I, Moby Dave, Who ran Davy's Booty way back on a c64
+              | had an awsome 1000 k of storage Space... LOL.  Just
+              | discovered this BBS list on July 31 2004 don't know if
+              | it's still up to date or not.  P.S. I think I was the guy
+              | that bought that only copy od Silicon Valley Any of my
+              | ole pals out there pls email me at mobydave@shaw.ca" -
+              | Moby Dave 
+--------------+-----------------------------------------------------------
+ 204-831-9836 | ARCH OF TIME...BBS
+              | WINNIPEG, CANADA (1993)
+--------------+-----------------------------------------------------------
+ 204-832-0235 | Silicon Valley
+              | Winnipeg, MB      (1983-1988)
+        SYSOP | Robert Hayes 
+     SOFTWARE | Custom (RBBS) 
+     COMMENTS | "I'm a little sketchy on the dates and the phone number,
+              | but I recall being  one of the first Sysops in Winnipeg
+              | to write a homegrown BBS program for the  Commodore 64.
+              | It took up the entire 38K BASIC RAM, as well as several
+              | more  K for machine language subroutines.  At the time,
+              | EBBS was what everyone was  using.  Silicon Valley became
+              | quite popular, although I only managed to  sell one copy.
+              | <P> Being a teenager, living at home, I ran the system
+              | (with an extra 1541 drive  donated by my friend) from my
+              | room upstairs!  I think I shut the system  down just as
+              | was heading into college. <P> There was a HUGE BBS crowd
+              | back then in Winnipeg.  We had regular parties,  with
+              | people showing up from all over the BBS scene.  It was
+              | really quite a  great time. <P> I hope the project goes
+              | well.  BBSing was not just an online community, it  was a
+              | way of life for a lot of us. " - Robert Hayes 
+--------------+-----------------------------------------------------------
+ 204-832-1124 | Thumper's Romp Room Node 2
+              | WINNIPEG, CANADA (1996-1997)
+        SYSOP | Dennis Bouwman 
+--------------+-----------------------------------------------------------
+ 204-832-1488 | Mac in Time West
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-832-1499 | Mac in Time West
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-832-2517 | Info-Equity BBS
+              | WINNIPEG, CANADA (1997-2000)
+        SYSOP | Jim Martinuk 
+--------------+-----------------------------------------------------------
+ 204-832-4593 | MWUG, M.W.O.G.
+              | WINNIPEG, CANADA (1986-1988)
+        SYSOP | Terry Smythe 
+--------------+-----------------------------------------------------------
+ 204-832-5120 | The Pig's Nostril
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-832-5348 | Pearly Gates
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-832-5397 | Demented Data Systems, DOS
+              | WINNIPEG, CANADA (1982-1988)
+        SYSOP | Gordon Grieder (Grub) 
+     SOFTWARE | GBBS, GBBS Pro 
+--------------+-----------------------------------------------------------
+ 204-832-6385 | Legion HQ, Man-Hub-2, Man-Net-SDM, Man-Net-Secr, NLA-2,
+              | NLA-Hub-2, Northern Lights File Repository
+              | (0100-0630)
+              | WINNIPEG, CANADA (1991-1995)
+        SYSOP | Daryl Turner 
+--------------+-----------------------------------------------------------
+ 204-832-6892 | Cobalt's Haven Node 2, NLA-8
+              | WINNIPEG, CANADA (1995-1998)
+        SYSOP | Russ Crook 
+     SOFTWARE | Remote 
+--------------+-----------------------------------------------------------
+ 204-832-7290 | Waterdeep
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Sabin Shurraw 
+--------------+-----------------------------------------------------------
+ 204-832-7412 | Adventure Line, The Labrynth
+              | WINNIPEG, CANADA (1989-1990)
+        SYSOP | Dean Olynyk 
+--------------+-----------------------------------------------------------
+ 204-832-8018 | GodFather Connect, HyperLink
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Robert De Luca 
+--------------+-----------------------------------------------------------
+ 204-832-9128 | Night Owl Systems
+              | WINNIPEG, CANADA (1994-1997)
+        SYSOP | Don White 
+--------------+-----------------------------------------------------------
+ 204-832-9603 | Cobalt's Haven, Dozy's Den, Man-Hub-4, Man-Hub-8, Man-Net-
+              | SDM, Manitoba Net
+              | WINNIPEG, CANADA (1990-1998)
+        SYSOP | Russ Crook, Shawn Robinson, Chris Davis 
+     SOFTWARE | Remote 
+--------------+-----------------------------------------------------------
+ 204-837-1077 | Man-Net-Omb, Phantoms Hanger
+              | WINNIPEG, CANADA (1990-1992)
+        SYSOP | Andy Fenstad 
+--------------+-----------------------------------------------------------
+ 204-837-1997 | Winnipeg PCUG
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Hartley Macklin 
+--------------+-----------------------------------------------------------
+ 204-837-2119 | Realm of Darkness
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-837-2340 | Latenight
+              | Winnipeg, MB      (1984-1987)
+        SYSOP | Tony Lettermun 
+     SOFTWARE | Generic C-64 
+     COMMENTS | "Generic C-64 code modified by Kirk Firth (Coco Master)
+              | who also worked on Victor Laking's web site. Comedy,
+              | crass, and moronic stupidity." - Tony Lettermun 
+--------------+-----------------------------------------------------------
+ 204-837-2507 | Thunder Mountain BBS
+              | WINNIPEG, CANADA (1993)
+--------------+-----------------------------------------------------------
+ 204-837-3214 | Aero Space PCBoard BBD, Aerospace BBS
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Rick Mann 
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-837-4078 | Zanzabar
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-837-5209 | Comlink 64+
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-837-5339 | Gangsta' Hack
+              | Winnipeg, MB      (1997-1998)
+        SYSOP | Ga' Hack 
+     SOFTWARE | PublicAddress 
+--------------+-----------------------------------------------------------
+ 204-837-7227 | Hawklord Software Tech, Hawklord Software Technologies,
+              | HST-BBS
+              | WINNIPEG, CANADA (1992-1993)
+        SYSOP | Robert McGeachy 
+     COMMENTS | "The BBS ran on an Amiga. During its later years it
+              | became a UFO/fringe oriented BBS with a large collection
+              | of text files." - Frootloop 
+--------------+-----------------------------------------------------------
+ 204-837-7400 | The Digital Den
+              | Winnipeg, MB      (1988-1989)
+        SYSOP | Brendan Schulman 
+     SOFTWARE | EBBS 128 
+     COMMENTS | "At the time, the only BBS system in Winnipeg running the
+              | C-128 version of EBBS (80 columns).  It also had the
+              | distinction of having the only hard drive operating on a
+              | Commodore-based bulletin board at the time:  The 20-MB
+              | Lt. Kernal.  20 MB seemed like an unlimited amount of
+              | storage back then!" - Brendan Schulman 
+--------------+-----------------------------------------------------------
+ 204-837-8601 | Mansel's BBS
+              | WINNIPEG, CANADA (1989-1991)
+        SYSOP | Mansel Ozanalp 
+     SOFTWARE | Wildcat 
+--------------+-----------------------------------------------------------
+ 204-837-9044 | SecondBnana, Unsound Mind
+              | WINNIPEG, CANADA (1986-1988)
+--------------+-----------------------------------------------------------
+ 204-837-9384 | COMP-U-LIT, Dist 10 Coord, Red River Community College
+              | WINNIPEG, CANADA (1989-1991)
+        SYSOP | James Kliener, James Kleiner 
+--------------+-----------------------------------------------------------
+ 204-837-9704 | Man-Hub-1, Man-Net SDM, Polar Bear Heaven
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Chris O'Neill 
+--------------+-----------------------------------------------------------
+ 204-837-9770 | Dis Point
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Sabin Shurraw 
+--------------+-----------------------------------------------------------
+ 204-857-3254 | CompuTECH
+              | PORTAGPRRI, Canada      (1991-1998)
+        SYSOP | Lars Olson 
+     SOFTWARE | RBBS 
+--------------+-----------------------------------------------------------
+ 204-857-4412 | Distillery
+              | PORTAGPRRI, CANADA (1991-1992)
+        SYSOP | Kelvin Krastel 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-857-5090 | Smitty's Place
+              | PORTAGPRRI, CANADA (1992)
+        SYSOP | Robert Smith 
+--------------+-----------------------------------------------------------
+ 204-857-5927 | CompuTECH
+              | PORTAGPRRI, CANADA (1991-1998)
+        SYSOP | Lars Olson 
+     SOFTWARE | RBBS 
+--------------+-----------------------------------------------------------
+ 204-857-6540 | Smitty's Place
+              | PORTAGPRRI, CANADA (1992)
+        SYSOP | Robert Smith 
+--------------+-----------------------------------------------------------
+ 204-877-3253 | Hoop N Hoop BBS
+              | RESTON, CANADA (1998-1999)
+     SOFTWARE | TriBBS 
+--------------+-----------------------------------------------------------
+ 204-878-9484 | Star Trek Club
+              | LORETTE, CANADA 
+--------------+-----------------------------------------------------------
+ 204-878-9614 | Twilight Exchange
+              | LORETTE, CANADA (1994)
+        SYSOP | Nicole St. Hilaire 
+     SOFTWARE | Searchlight 
+--------------+-----------------------------------------------------------
+ 204-878-9615 | Twilight Exchange
+              | Lorette, Manitoba      
+        SYSOP | Nicole St. Hilaire 
+     SOFTWARE | Searchlight 
+--------------+-----------------------------------------------------------
+ 204-878-9616 | Twilight Exchange
+              | LORETTE, CANADA (1994-1998)
+        SYSOP | Nicole St.Hilaire, Nicole St. Hilaire 
+     SOFTWARE | Searchlight 
+--------------+-----------------------------------------------------------
+ 204-885-1871 | Demon's Gate
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-885-3091 | Maxflex
+              | WINNIPEG, CANADA (1994)
+        SYSOP | David Hocket 
+--------------+-----------------------------------------------------------
+ 204-885-4713 | Realm Darkness
+              | WINNIPEG, CANADA (1992)
+        SYSOP | Robbin Ambrose 
+--------------+-----------------------------------------------------------
+ 204-885-6397 | Castle Ravenloft
+              | WINNIPEG, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-885-7921 | Tec Voc
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-885-9737 | DEFCON
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Terry Taylor 
+--------------+-----------------------------------------------------------
+ 204-888-0498 | ROM Electronics
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-888-1372 | Manitoba Net, Northern Lights File Repository
+              | WINNIPEG, CANADA (1995-2000)
+        SYSOP | Daryl Turner 
+--------------+-----------------------------------------------------------
+ 204-888-2659 | Andreas Faultline, Forever Friends
+              | WINNIPEG, CANADA (1994-1995)
+        SYSOP | Andreas Dallmann 
+--------------+-----------------------------------------------------------
+ 204-888-2915 | Unicorn Industries
+              | WINNIPEG, CANADA 
+     SOFTWARE | Vision-X 
+--------------+-----------------------------------------------------------
+ 204-888-4374 | File Trade
+              | WINNIPEG, CANADA (1994)
+--------------+-----------------------------------------------------------
+ 204-888-4812 | 3rd Camelot, Camelot World
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-888-5136 | COMP-U-LIT, MANITOBA HUB, Red River Community College
+              | WINNIPEG, CANADA (1987-1988)
+        SYSOP | James Kliener, James Kleiner 
+--------------+-----------------------------------------------------------
+ 204-888-5465 | HyperLink, Hyperlink/2
+              | WINNIPEG, CANADA (1992-1994)
+        SYSOP | Robert DeLuca, Robert De Luca 
+--------------+-----------------------------------------------------------
+ 204-888-6909 | Frozen Thoughts
+              | Winnipeg, MB      
+        SYSOP | Iceman 
+     SOFTWARE | Telegard 
+--------------+-----------------------------------------------------------
+ 204-888-7867 | The La Zoo
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-888-8764 | Hayloft BBS
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Rick Mogk 
+--------------+-----------------------------------------------------------
+ 204-888-9290 | AM-Midi
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Robert Bacal 
+--------------+-----------------------------------------------------------
+ 204-889-1148 | Excalibur BBS
+              | WINNIPEG, CANADA (1996-1997)
+        SYSOP | Kenneth Haines 
+--------------+-----------------------------------------------------------
+ 204-889-1368 | The Clubhouse
+              | WINNIPEG, CANADA (1997-1998)
+        SYSOP | David Storey 
+--------------+-----------------------------------------------------------
+ 204-889-1432 | Smorgas Board, 9900 Board, Winnipeg 99/4 Users
+              | Winnipeg, MB      (1985)
+        SYSOP | Charles Carlson 
+     COMMENTS | "Ran on a Texas Instruments TI-99/4 or 4A computer and
+              | was the Winnipeg 99/4 Users' Group support BBS." - Roof
+              | of Clouds 
+--------------+-----------------------------------------------------------
+ 204-889-3584 | SchoolNet
+              | WINNIPEG, CANADA (1986-1987)
+     SOFTWARE | GBBS Pro 
+--------------+-----------------------------------------------------------
+ 204-889-3608 | Ability, Info-Equity BBS
+              | WINNIPEG, CANADA (1994-1997)
+        SYSOP | Jim Martinuk 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-889-5202 | Populous
+              | Winnipeg, Manitoba      
+--------------+-----------------------------------------------------------
+ 204-889-6095 | Cyber Solutions
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-889-6278 | Dead Zone
+              | WINNIPEG, CANADA 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-889-9896 | Andreas Fault Line
+              | Winnipeg, MB      (1991-1992)
+        SYSOP | Andreas Dallmann 
+--------------+-----------------------------------------------------------
+ 204-895-0016 | Metro City
+              | Winnipeg, Manitoba      
+     SOFTWARE | TAG 
+--------------+-----------------------------------------------------------
+ 204-895-0150 | TeleSoft Systems
+              | WINNIPEG, CANADA (1997-1998)
+        SYSOP | Gary DeMontigny 
+--------------+-----------------------------------------------------------
+ 204-895-0534 | H.H.L. Systems BBS
+              | WINNIPEG, CANADA (1994-1998)
+        SYSOP | Ray Walsh 
+     SOFTWARE | Wildcat 
+--------------+-----------------------------------------------------------
+ 204-895-1076 | Metro City
+              | Winnipeg, Manitoba      
+     SOFTWARE | TAG 
+--------------+-----------------------------------------------------------
+ 204-895-1617 | Talisman II
+              | Winnipeg, Manitoba      
+     SOFTWARE | CBase (C64) 
+--------------+-----------------------------------------------------------
+ 204-895-1752 | Crucible Games
+              | WINNIPEG, CANADA 
+     SOFTWARE | Major 
+     COMMENTS | "A pay gaming service which let people play multi-user
+              | games such as Warcraft II and Duke Nukem 3D." - Frootloop 
+--------------+-----------------------------------------------------------
+ 204-895-4140 | Hawk BBS
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Steve McDermid 
+--------------+-----------------------------------------------------------
+ 204-895-4836 | The Resitance
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-895-7522 | Man-Hub-12, Manitoba Net, NLA Internet Gate, NLA Internet
+              | Gateway, NLA-10, NLA-Hub-12, TeleSoft
+              | Systems
+              | WINNIPEG, CANADA (1994-2000)
+        SYSOP | Gary DeMontigny 
+     SOFTWARE | Remote 
+--------------+-----------------------------------------------------------
+ 204-895-7598 | Bizline BBS
+              | WINNIPEG, CANADA (1993)
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-895-8897 | The Psycho Ward
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-895-9386 | Sonic's
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Daniel Williams, Danile Williams 
+--------------+-----------------------------------------------------------
+ 204-895-9956 | City Morgue, ISO-3
+              | WINNIPEG, CANADA (1995)
+        SYSOP | Jayson Davis 
+     SOFTWARE | TAG 
+--------------+-----------------------------------------------------------
+ 204-896-0459 | Man-Hub-1, Man-Net SDM, Man-Net-SDM, Polar Bear Heaven
+              | Winnipeg, MB      (1991-1992)
+        SYSOP | Chris O'Neill 
+--------------+-----------------------------------------------------------
+ 204-896-0919 | Life in the fast lane
+              | WINNIPEG, CANADA (1994)
+--------------+-----------------------------------------------------------
+ 204-896-1600 | Intimate Connections
+              | WINNIPEG, CANADA 
+        SYSOP | Dean 
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-896-1878 | Liberty Won
+              | WINNIPEG, CANADA (1991)
+        SYSOP | Thomas Davie 
+--------------+-----------------------------------------------------------
+ 204-896-3906 | Cobalt's Haven2, Dozy's Den, Man-Hub-4, Manitoba Net
+              | Winnipeg, MB      (1991-1992)
+        SYSOP | Russ Crook, Chris Davis 
+--------------+-----------------------------------------------------------
+ 204-896-4031 | K.E.B. System I
+              | WINNIPEG, CANADA 
+        SYSOP | Ray McAdam 
+     SOFTWARE | PCPN 
+--------------+-----------------------------------------------------------
+ 204-896-4439 | IMP-2, ISO-4, Thumper's Romp Room, Thunder's Romp Room
+              | WINNIPEG, CANADA (1995-1997)
+        SYSOP | Dennis Bouwman, Dennis Bouman 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-896-5703 | K.E.B. System I
+              | WINNIPEG, CANADA 
+        SYSOP | Ray McAdam 
+     SOFTWARE | PCPN 
+--------------+-----------------------------------------------------------
+ 204-896-6708 | Glass Shard
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-897-0751 | H.H.L. SYSTEMS BBS, HHL Systems
+              | WINNIPEG, CANADA (1994-1998)
+        SYSOP | Ray Walsh 
+     SOFTWARE | Wildcat 
+--------------+-----------------------------------------------------------
+ 204-897-3345 | Compton BBS
+              | Winnipeg, MB      
+        SYSOP |  
+--------------+-----------------------------------------------------------
+ 204-897-3413 | The Crypt
+              | Winnipeg, MB      (1994-1999)
+        SYSOP | Jordan Samulaitis 
+--------------+-----------------------------------------------------------
+ 204-897-3564 | Genosha
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-897-6231 | Dragonwind Central
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Ken Stovold 
+     SOFTWARE | Virtual 
+--------------+-----------------------------------------------------------
+ 204-897-6388 | IGM Reg, The Door Factory
+              | Winnipeg, MB      (1995-2003)
+        SYSOP | Ken Weitzel 
+--------------+-----------------------------------------------------------
+ 204-897-6592 | ACiD Dream
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-897-8164 | Disciples of Christ BBS
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-897-8654 | Advanced Technologies E-Mail Services, IMP-2, ISO-12
+              | Winnipeg, Manitoba, Canada     (1994-1996)
+        SYSOP | Ray Henry, Jason Smith 
+     SOFTWARE | Synchronet - OS/2 
+     COMMENTS | "Wow. I was directed to this site by someone that claimed
+              | this list existed. It does, and there I am. There was
+              | only a couple of OS/2 boards up around here as I recall.
+              | David Storey had one, I think. I can't recall the exact
+              | numbers at this time, but we had well over 100 users, and
+              | were part of pretty well every *net. Tons of door games.
+              | The board was previously run as "Rubber Room", but
+              | attracted too many modem kiddies. I think it was up for
+              | about a year before we gave up cleaning it up, and simply
+              | changed the name.  But times change, and now I have web
+              | servers rather than a BBS running in my home....." - Ray
+              | Henry 
+--------------+-----------------------------------------------------------
+ 204-934-2633 | IBM CS BBS
+              | Winnipeg, Manitoba      
+        SYSOP | Ward Elder 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-934-2697 | IBM CS BBS
+              | WINNIPEG, CANADA (1998)
+        SYSOP | Ward Elder 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-934-2735 | IBM BBS
+              | Winnipeg, Manitoba      
+        SYSOP | Ward Elder 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-934-2754 | IBM CS BBS
+              | Winnipeg, Manitoba      
+        SYSOP | Ward Elder 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-934-2798 | IBM BBS
+              | Winnipeg, Manitoba      
+        SYSOP | Ward Elder 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-942-0024 | Throne of Chaos
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-942-0434 | The Blue Lagoon Cafe
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Chad Dunn 
+--------------+-----------------------------------------------------------
+ 204-942-1109 | J&J Electronics
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-942-1123 | Winnipeg Society
+              | WINNIPEG, CANADA 
+--------------+-----------------------------------------------------------
+ 204-942-1467 | The Centre of Robin's Universe Node 2
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Robin Iwamoto 
+--------------+-----------------------------------------------------------
+ 204-942-2856 | Axon, NLA-4, NLA-8
+              | WINNIPEG, CANADA (1994-2000)
+        SYSOP | Murray Rivett 
+     SOFTWARE | DLG Pro (Amiga) 
+--------------+-----------------------------------------------------------
+ 204-942-3857 | Winnipeg Society
+              | Winnipeg, Manitoba      
+     SOFTWARE | TAG 
+--------------+-----------------------------------------------------------
+ 204-942-5486 | City Morgue, ISO-3, Man-Hub-14
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Jayson Davis 
+--------------+-----------------------------------------------------------
+ 204-942-6693 | The Centre of Robin's Universe Node 4
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Robin Iwamoto 
+--------------+-----------------------------------------------------------
+ 204-942-7034 | Desert Sands
+              | Winnipeg, Manitoba      
+     SOFTWARE | Renegade 
+--------------+-----------------------------------------------------------
+ 204-943-0114 | Prog Oasis, Programmers Oasis
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Brian Lowe 
+--------------+-----------------------------------------------------------
+ 204-943-2159 | CyBeR Den
+              | WINNIPEG, CANADA 
+     SOFTWARE | Searchlight 
+--------------+-----------------------------------------------------------
+ 204-943-3032 | Muddy Water CS
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Jay Davidow 
+--------------+-----------------------------------------------------------
+ 204-943-4488 | Datapac
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-943-6508 | Muddy Water Computer Society, Muddy Waters UG
+              | WINNIPEG, CANADA (1990-1994)
+        SYSOP | Jay Davidow, Terry Smythe, Gord Tulloch 
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-943-6509 | Muddy Water Computer Society, Muddy Waters UG2
+              | WINNIPEG, CANADA (1990-1992)
+        SYSOP | Terry Smythe, Gord Tulloch 
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-943-6590 | Muddy Water CS
+              | WINNIPEG, CANADA (1992)
+        SYSOP | Gord Tulloch 
+--------------+-----------------------------------------------------------
+ 204-943-7042 | Cable Network
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-943-7841 | Windows Information Network
+              | Winnipeg, Manitoba      
+--------------+-----------------------------------------------------------
+ 204-943-8517 | Tronica (T.I.N.)
+              | WINNIPEG, CANADA (1986)
+--------------+-----------------------------------------------------------
+ 204-943-9007 | Winnipeg RCP/M
+              | WINNIPEG, CANADA (1984-1985)
+        SYSOP | Greg Moeller & Bruce Walzer 
+--------------+-----------------------------------------------------------
+ 204-944-0326 | Andreas Fault Line BBS
+              | WINNIPEG, CANADA (1990)
+     SOFTWARE | Wildcat 
+--------------+-----------------------------------------------------------
+ 204-947-2920 | Open Access
+              | WINNIPEG, CANADA (1989-1991)
+        SYSOP | David Wetherow 
+     SOFTWARE | Wildcat 
+     COMMENTS | "From a 1990 Usenet posting: OPEN ACCESS specializes in
+              | the area of adaptive communications and computer access
+              | for people with disabilities. It is designed to provide
+              | information, idea-sharing, access and con-nections for
+              | people with disabilities, professionals, and interested
+              | citizens." - Frootloop 
+--------------+-----------------------------------------------------------
+ 204-947-3010 | Dist 20 Coord, PD RBBS-PC, PD-Opus HK-Gate
+              | WINNIPEG, CANADA (1989-1992)
+        SYSOP | Alan Leung 
+--------------+-----------------------------------------------------------
+ 204-947-5914 | The Centre of Robin's Universe Node 3
+              | WINNIPEG, CANADA (1996)
+        SYSOP | Robin Iwamoto 
+--------------+-----------------------------------------------------------
+ 204-947-6185 | Dist 40 Coord
+              | WINNIPEG, CANADA (1989)
+        SYSOP | Dave Sloan 
+--------------+-----------------------------------------------------------
+ 204-948-2385 | Farm Business Management, Farm Business Mgt.
+              | WINNIPEG, CANADA 
+     SOFTWARE | Maximus 
+--------------+-----------------------------------------------------------
+ 204-949-1749 | FrED's BaR'n' GRiLL
+              | Winnipeg, Manitoba      
+     SOFTWARE | CNet (Amiga) 
+--------------+-----------------------------------------------------------
+ 204-949-7770 | Magic Online Services
+              | Winnipeg, Manitoba      (1993-1998)
+        SYSOP | Scott Brooker, Greg Moeller 
+     SOFTWARE | First Class 
+--------------+-----------------------------------------------------------
+ 204-949-7780 | Magic Online Services
+              | Winnipeg, Manitoba      
+     SOFTWARE | UNIX 
+--------------+-----------------------------------------------------------
+ 204-949-9177 | Beebo The Mutant Sloth
+              | WINNIPEG, CANADA (1994)
+        SYSOP | Robbin Ambrose 
+--------------+-----------------------------------------------------------
+ 204-956-0366 | Canmen, Manitoba Waste Exchange!
+              | WINNIPEG, CANADA (1995-1996)
+        SYSOP | Todd Lohvinenko 
+     SOFTWARE | TBBS 
+--------------+-----------------------------------------------------------
+ 204-956-1105 | Midnight Run
+              | WINNIPEG, CANADA (1989)
+        SYSOP | Ron Blake 
+--------------+-----------------------------------------------------------
+ 204-956-5516 | NLA-4, The Centre of Robin's Universe
+              | WINNIPEG, CANADA (1995-1996)
+        SYSOP | Robin Iwamoto 
+--------------+-----------------------------------------------------------
+ 204-957-1851 | Junction City
+              | WINNIPEG, CANADA 
+     SOFTWARE | Wildcat! 
+--------------+-----------------------------------------------------------
+ 204-957-7699 | DEFCON InfoSystem
+              | WINNIPEG, CANADA (1991-1992)
+        SYSOP | Robb Inniss 
+--------------+-----------------------------------------------------------
+ 204-958-7280 | Winnipeg PC User Group, Wpg PC UG
+              | WINNIPEG, CANADA (1990)
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-958-7284 | Wpg PC User Grp
+              | WINNIPEG, CANADA (1995-2000)
+        SYSOP | Robert Snyder, Len Thornton, Karl Strieby 
+--------------+-----------------------------------------------------------
+ 204-958-7285 | Winnipeg PC User Group
+              | Winnipeg, Manitoba      
+     SOFTWARE | PCBoard 
+--------------+-----------------------------------------------------------
+ 204-982-1650 | Central City
+              | WINNIPEG, CANADA 
+     SOFTWARE | McBBS 
+--------------+-----------------------------------------------------------
+ 204-982-1651 | Central City
+              | WINNIPEG, CANADA 
+     SOFTWARE | McBBS 
+--------------+-----------------------------------------------------------
+ 204-982-1664 | Central City
+              | Winnipeg, Manitoba      
+     SOFTWARE | McBBS 
+--------------+-----------------------------------------------------------
+ 204-986-6722 | Winnipeg Public Library
+              | WINNIPEG, CANADA 
+        SYSOP | City of Winnipeg 
+     SOFTWARE | DialPac (HP900) 
+--------------+-----------------------------------------------------------
+ 204-987-1234 | Blue Sky Communications Network
+              | WINNIPEG, CANADA 
+     SOFTWARE | Original (Sparc) 
+     COMMENTS | This was Winnipeg's Freenet system.  It offered Internet
+              | e-mail and limited access to the web. 
+--------------+-----------------------------------------------------------
+
